@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:georss="http://www.georss.org/georss" version="2.0">
+  <channel>
+    <title>San Francisco</title>
+    <link>http://www.bing.com</link>
+    <description />
+    <item>
+      <title>Aptos High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>7301 Freedom Blvd, Aptos, CA 95003::6::0::1::0</description>
+      <guid isPermaLink="false">4b8b62ac41a21e29</guid>
+      <pubDate>Wed, 17 Feb 2010 18:08:47 GMT</pubDate>
+      <georss:point>36.977972196016204 -121.86304393646242</georss:point>
+    </item>
+    <item>
+      <title>Cabrillo College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>2807 Cabrillo College Dr, Aptos, CA 95003::8::1::1::0</description>
+      <guid isPermaLink="false">a6ee8d846ef61920</guid>
+      <pubDate>Wed, 17 Feb 2010 18:10:05 GMT</pubDate>
+      <georss:point>36.985911296967465 -121.92381801327514</georss:point>
+    </item>
+    <item>
+      <title>Campbell Community Center</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>110 W Latimer Ave, Campbell, CA 95008::4::1::1::0</description>
+      <guid isPermaLink="false">c51bcd8da69695e</guid>
+      <pubDate>Tue, 02 Feb 2010 23:22:04 GMT</pubDate>
+      <georss:point>37.29031934385626 -121.95159141006473</georss:point>
+    </item>
+    <item>
+      <title>John Morgan Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>540 West Rincon Ave, Campbell, CA 95008::4::0::1::0</description>
+      <guid isPermaLink="false">250e4fdaae6879ba</guid>
+      <pubDate>Tue, 02 Feb 2010 23:33:23 GMT</pubDate>
+      <georss:point>37.28383363226585 -121.95703778371438</georss:point>
+    </item>
+    <item>
+      <title>Westmont High</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>4805 Westmont Ave., Campbell, CA 95008::8::0::1::0</description>
+      <guid isPermaLink="false">ff80acd738502ad8</guid>
+      <pubDate>Thu, 04 Feb 2010 00:03:35 GMT</pubDate>
+      <georss:point>37.27162799700568 -121.98355637763211</georss:point>
+    </item>
+    <item>
+      <title>Jade Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>4400 Jade St., Capitola, CA 95010::4::1::1::0</description>
+      <guid isPermaLink="false">b5d7c2f852bdd2dc</guid>
+      <pubDate>Wed, 17 Feb 2010 18:12:42 GMT</pubDate>
+      <georss:point>36.969065267953304 -121.9594498723526</georss:point>
+    </item>
+    <item>
+      <title>Monta Vista Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1171</link>
+      <description>10220 Mcklintock Ln, Cupertino, CA 95014::2::0::1::0</description>
+      <guid isPermaLink="false">83e297db7ecba07d</guid>
+      <pubDate>Wed, 20 Jan 2010 23:57:32 GMT</pubDate>
+      <georss:point>37.31881047745294 -122.07095309039141</georss:point>
+    </item>
+    <item>
+      <title>Cupertino High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>10100 Finch Ave., Cupertino, CA 95014::7::0::1::0</description>
+      <guid isPermaLink="false">35a9b247ea124182</guid>
+      <pubDate>Thu, 28 Jan 2010 19:11:45 GMT</pubDate>
+      <georss:point>37.31876878268525 -122.00945710416033</georss:point>
+    </item>
+    <item>
+      <title>Cupertino Sports Center</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>21111 Stevens Creek Blvd., Cupertino, CA 95014::18::1::1::0</description>
+      <guid isPermaLink="false">15623dddd128e212</guid>
+      <pubDate>Thu, 28 Jan 2010 19:13:12 GMT</pubDate>
+      <georss:point>37.32358104982922 -122.04297402446747</georss:point>
+    </item>
+    <item>
+      <title>De Anza College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>21250 Stevens Creek Blvd, Cupertino, CA 95014::7::1::1::0</description>
+      <guid isPermaLink="false">3c60be945a02922a</guid>
+      <pubDate>Thu, 28 Jan 2010 19:13:56 GMT</pubDate>
+      <georss:point>37.31797555705144 -122.04254664977651</georss:point>
+    </item>
+    <item>
+      <title>Homestead High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>21370 Homestead Rd, Cupertino, CA 95014::7::0::1::0</description>
+      <guid isPermaLink="false">886ad2fade6eae38</guid>
+      <pubDate>Thu, 28 Jan 2010 19:19:22 GMT</pubDate>
+      <georss:point>37.33669763653561 -122.04654399105448</georss:point>
+    </item>
+    <item>
+      <title>Monte Vista High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>21840 McClellan Rd., Cupertino, CA 95014::7::0::1::0</description>
+      <guid isPermaLink="false">1b95293ca5fb628</guid>
+      <pubDate>Thu, 28 Jan 2010 19:22:02 GMT</pubDate>
+      <georss:point>37.313829890845874 -122.0578428039131</georss:point>
+    </item>
+    <item>
+      <title>Varian Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>Ainsworth Dr &amp;amp; Vista Knoll Blvd, Cupertino, CA 95014::2::0::1::0</description>
+      <guid isPermaLink="false">1ab017f0d43276d</guid>
+      <pubDate>Tue, 02 Feb 2010 22:22:05 GMT</pubDate>
+      <georss:point>37.32635793608438 -122.06273262796401</georss:point>
+    </item>
+    <item>
+      <title>American High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>36300 Fremont Blvd, Fremont, CA 94536::8::0::1::0</description>
+      <guid isPermaLink="false">b58fa7bc27f06f16</guid>
+      <pubDate>Wed, 27 Jan 2010 23:04:04 GMT</pubDate>
+      <georss:point>37.56504890479979 -122.01912210450757</georss:point>
+    </item>
+    <item>
+      <title>Fremont Central Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>1110 Stevenson Blvd, Fremont, CA 94538::18::1::1::0</description>
+      <guid isPermaLink="false">56a75a49475c4efd</guid>
+      <pubDate>Wed, 27 Jan 2010 23:30:17 GMT</pubDate>
+      <georss:point>37.55739437771655 -121.95993276651762</georss:point>
+    </item>
+    <item>
+      <title>Irvington High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>41800 Blacow Rd, Fremont, CA 94538::8::0::1::0</description>
+      <guid isPermaLink="false">fb1d66640d2a1d93</guid>
+      <pubDate>Wed, 27 Jan 2010 23:30:53 GMT</pubDate>
+      <georss:point>37.524708316658256 -121.96860475001534</georss:point>
+    </item>
+    <item>
+      <title>Kennedy High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>39999 Blacow Rd, Fremont, CA 94538::6::0::1::0</description>
+      <guid isPermaLink="false">81dd215135ad5513</guid>
+      <pubDate>Wed, 27 Jan 2010 23:31:36 GMT</pubDate>
+      <georss:point>37.528351041926676 -121.98785635287856</georss:point>
+    </item>
+    <item>
+      <title>Washington High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>38442 Fremont Blvd, Fremont, CA 94538::6::0::1::0</description>
+      <guid isPermaLink="false">a25920714d0cb96f</guid>
+      <pubDate>Wed, 27 Jan 2010 23:34:08 GMT</pubDate>
+      <georss:point>37.552362450175124 -121.99221626585387</georss:point>
+    </item>
+    <item>
+      <title>Mission San Jose Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>41403 Mission Blvd, Fremont, CA 94539::6::1::1::0</description>
+      <guid isPermaLink="false">25e99783c181d02a</guid>
+      <pubDate>Wed, 27 Jan 2010 23:43:14 GMT</pubDate>
+      <georss:point>37.54580539229045 -121.93786759293743</georss:point>
+    </item>
+    <item>
+      <title>Ohlone College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>Anza Pine Rd., Fremont, CA 94539::8::1::1::0</description>
+      <guid isPermaLink="false">4d46910fe47f3cc5</guid>
+      <pubDate>Wed, 27 Jan 2010 23:51:31 GMT</pubDate>
+      <georss:point>37.52705398623848 -121.9136255918961</georss:point>
+    </item>
+    <item>
+      <title>May Nisson Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>685 Rincon Ave, Livermore, CA 94551::4::0::1::0</description>
+      <guid isPermaLink="false">b7bfbb7e09664928</guid>
+      <pubDate>Tue, 02 Feb 2010 23:14:27 GMT</pubDate>
+      <georss:point>37.685786910174606 -121.78389268717194</georss:point>
+    </item>
+    <item>
+      <title>Del Valle High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>2253 Fifth St., Livermore, CA 94550::6::1::1::0</description>
+      <guid isPermaLink="false">2f6389e98455cef8</guid>
+      <pubDate>Thu, 28 Jan 2010 00:20:27 GMT</pubDate>
+      <georss:point>37.67821586533917 -121.76634463558196</georss:point>
+    </item>
+    <item>
+      <title>Robert Livermore Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>991 Loyola Way, Livermore, CA 94550::4::1::1::0</description>
+      <guid isPermaLink="false">c8cb7cdb9a76b61b</guid>
+      <pubDate>Thu, 28 Jan 2010 00:28:20 GMT</pubDate>
+      <georss:point>37.681031222626416 -121.74015488360595</georss:point>
+    </item>
+    <item>
+      <title>Foothills College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>12345 S El Monte Rd, Los Altos Hills, CA 94022::6::0::1::0</description>
+      <guid isPermaLink="false">390e00dbccde25ef</guid>
+      <pubDate>Wed, 27 Jan 2010 23:35:13 GMT</pubDate>
+      <georss:point>37.36253245053733 -122.12397117912087</georss:point>
+    </item>
+    <item>
+      <title>Los Altos High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>201 Almond Ave., Los Altos, CA 94022::12::1::1::0</description>
+      <guid isPermaLink="false">c04f24ef7e5f02ae</guid>
+      <pubDate>Wed, 27 Jan 2010 23:35:57 GMT</pubDate>
+      <georss:point>37.388371285759106 -122.10840309556198</georss:point>
+    </item>
+    <item>
+      <title>Marymeade Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>Grant Rd &amp;amp; Fremont Ave, Los Altos, CA 94024::3::1::1::0</description>
+      <guid isPermaLink="false">fdb6446bbe1795e5</guid>
+      <pubDate>Thu, 28 Jan 2010 00:15:09 GMT</pubDate>
+      <georss:point>37.35277229822236 -122.07917584194183</georss:point>
+    </item>
+    <item>
+      <title>McKenzie Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>707 Fremont Ave, Los Altos, CA 94024::2::1::1::0</description>
+      <guid isPermaLink="false">fef1b59af6a3fcfd</guid>
+      <pubDate>Thu, 28 Jan 2010 00:15:53 GMT</pubDate>
+      <georss:point>37.35869313034002 -122.09419145138167</georss:point>
+    </item>
+    <item>
+      <title>Montclaire Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>2090 Stonehaven Dr, Los Altos, CA 94024::2::1::1::0</description>
+      <guid isPermaLink="false">54c124ab067785f2</guid>
+      <pubDate>Thu, 28 Jan 2010 00:16:42 GMT</pubDate>
+      <georss:point>37.34126949116687 -122.08153322684478</georss:point>
+    </item>
+    <item>
+      <title>La Rinconada Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>Wedgewood Ave &amp;amp; Granada Way, Los Gatos, CA 95032::1::0::1::0</description>
+      <guid isPermaLink="false">6d3b4b37d0708a7f</guid>
+      <pubDate>Thu, 04 Feb 2010 00:29:03 GMT</pubDate>
+      <georss:point>37.25995709140701 -121.98063542327884</georss:point>
+    </item>
+    <item>
+      <title>Los Gatos High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>20 High School Court, Los Gatos, CA 95030::5::1::1::0</description>
+      <guid isPermaLink="false">3d3b34b5092685f2</guid>
+      <pubDate>Mon, 08 Feb 2010 01:32:19 GMT</pubDate>
+      <georss:point>37.22354664974925 -121.97652521957394</georss:point>
+    </item>
+    <item>
+      <title>Union Road Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>245 North Union Rd, Manteca, CA 95337::6::1::1::0</description>
+      <guid isPermaLink="false">5cf5c4dc3c90288c</guid>
+      <pubDate>Wed, 17 Feb 2010 18:47:40 GMT</pubDate>
+      <georss:point>37.80158572925995 -121.23561516204074</georss:point>
+    </item>
+    <item>
+      <title>Center Street Courts</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>311 West Center St, Manteca, CA 95336::2::0::1::0</description>
+      <guid isPermaLink="false">f456e1151cade79b</guid>
+      <pubDate>Wed, 17 Feb 2010 19:00:41 GMT</pubDate>
+      <georss:point>37.79941783410896 -121.21976920866785</georss:point>
+    </item>
+    <item>
+      <title>East Union High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>1700 N. Union Rd., Manteca, CA 95336::8::0::1::0</description>
+      <guid isPermaLink="false">5f331ada90409053</guid>
+      <pubDate>Wed, 17 Feb 2010 19:01:36 GMT</pubDate>
+      <georss:point>37.820387361263975 -121.23280829528426</georss:point>
+    </item>
+    <item>
+      <title>Manteca Community</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>680 Mikesell Ave., Manteca, CA 95336::8::0::1::0</description>
+      <guid isPermaLink="false">752bfc9bfa637fd3</guid>
+      <pubDate>Wed, 17 Feb 2010 19:08:50 GMT</pubDate>
+      <georss:point>37.795097138227696 -121.20774256679527</georss:point>
+    </item>
+    <item>
+      <title>Sierra High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>1700 Thomas St., Manteca, CA 95336::7::0::1::0</description>
+      <guid isPermaLink="false">9cedf104d73f4db0</guid>
+      <pubDate>Wed, 17 Feb 2010 19:40:10 GMT</pubDate>
+      <georss:point>37.79152244716088 -121.24653398944088</georss:point>
+    </item>
+    <item>
+      <title>Belle Haven Elementary School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>413 Ivy Drive, Menlo Park, CA 94025::1::0::1::0</description>
+      <guid isPermaLink="false">a9cecc1c002d1ede</guid>
+      <pubDate>Wed, 27 Jan 2010 22:44:25 GMT</pubDate>
+      <georss:point>37.47750159034296 -122.16232256581503</georss:point>
+    </item>
+    <item>
+      <title>Burgess Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>501 Laurel St, Menlo Park, CA 94025::2::1::1::0</description>
+      <guid isPermaLink="false">4b73bb7ccacd9081</guid>
+      <pubDate>Wed, 27 Jan 2010 22:44:58 GMT</pubDate>
+      <georss:point>37.452595657018705 -122.17505345040138</georss:point>
+    </item>
+    <item>
+      <title>Hillview Elementary School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>1100 Elder Ave, Menlo Park, CA 94025::2::0::1::0</description>
+      <guid isPermaLink="false">98f623a03ea76166</guid>
+      <pubDate>Wed, 27 Jan 2010 22:45:50 GMT</pubDate>
+      <georss:point>37.44015856077842 -122.19441538755797</georss:point>
+    </item>
+    <item>
+      <title>La Entrada Elementary School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>2200 Sharon Rd, Menlo Park, CA 94025::2::0::1::0</description>
+      <guid isPermaLink="false">517d9f2b260eac2d</guid>
+      <pubDate>Wed, 27 Jan 2010 22:46:37 GMT</pubDate>
+      <georss:point>37.428644339493886 -122.20115706018822</georss:point>
+    </item>
+    <item>
+      <title>Nealon Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>800 Middle Ave, Menlo Park, CA 94025::5::1::1::0</description>
+      <guid isPermaLink="false">98c5f5e4bc989f73</guid>
+      <pubDate>Wed, 27 Jan 2010 22:49:20 GMT</pubDate>
+      <georss:point>37.447493160839535 -122.18022053736496</georss:point>
+    </item>
+    <item>
+      <title>Oak Knoll Elementary School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>1895 Oak Knoll Lane, Menlo Park, CA 94025::2::0::1::0</description>
+      <guid isPermaLink="false">92c2248d7e32407c</guid>
+      <pubDate>Wed, 27 Jan 2010 22:50:46 GMT</pubDate>
+      <georss:point>37.42923865657079 -122.19123612135695</georss:point>
+    </item>
+    <item>
+      <title>Willow Oaks Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>Willow Rd &amp;amp; Coleman Ave, Menlo Park, CA 94025::4::1::1::0</description>
+      <guid isPermaLink="false">6d7aec61e6bc106d</guid>
+      <pubDate>Wed, 27 Jan 2010 22:55:42 GMT</pubDate>
+      <georss:point>37.46080986697734 -122.15941746494292</georss:point>
+    </item>
+    <item>
+      <title>Dixon Landing Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>Milmont &amp;amp; Jurgens Drs, Milpitas, CA 95035::3::1::1::0</description>
+      <guid isPermaLink="false">a85c72dcde7df05c</guid>
+      <pubDate>Tue, 02 Feb 2010 22:28:41 GMT</pubDate>
+      <georss:point>37.45202061197184 -121.91479959028243</georss:point>
+    </item>
+    <item>
+      <title>Hall Memorial Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>La Honda Dr &amp;amp; Hermina St, Milpitas, CA 95035::4::1::1::0</description>
+      <guid isPermaLink="false">55840a28a8a90fb3</guid>
+      <pubDate>Tue, 02 Feb 2010 22:29:19 GMT</pubDate>
+      <georss:point>37.44241168733221 -121.913548338623</georss:point>
+    </item>
+    <item>
+      <title>Milpitas High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>1531 Escuela Pkwy, Milpitas, CA 95035::8::1::1::0</description>
+      <guid isPermaLink="false">894fc5ce27995f37</guid>
+      <pubDate>Tue, 02 Feb 2010 22:31:16 GMT</pubDate>
+      <georss:point>37.451481901514505 -121.90354067661292</georss:point>
+    </item>
+    <item>
+      <title>Peter Gill Memorial Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>Paseo Refugio At Santa Rita Drive, Milpitas, CA 95035::3::1::1::0</description>
+      <guid isPermaLink="false">e645c442412ccf04</guid>
+      <pubDate>Tue, 02 Feb 2010 22:33:23 GMT</pubDate>
+      <georss:point>37.43823726757079 -121.89524720468517</georss:point>
+    </item>
+    <item>
+      <title>Pinewood Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>298 Lone Tree Ct, Milpitas, CA 95035::4::1::1::0</description>
+      <guid isPermaLink="false">12f56c7ad4eb1f27</guid>
+      <pubDate>Tue, 02 Feb 2010 22:39:28 GMT</pubDate>
+      <georss:point>37.409386202771294 -121.90955082012937</georss:point>
+    </item>
+    <item>
+      <title>Yellowstone Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>1646 Yellowstone Ave, Milpitas, CA 95035::4::1::1::0</description>
+      <guid isPermaLink="false">2517e6dfe7ac4552</guid>
+      <pubDate>Tue, 02 Feb 2010 22:41:33 GMT</pubDate>
+      <georss:point>37.42394165302941 -121.8745367431602</georss:point>
+    </item>
+    <item>
+      <title>Live Oak High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>1505 E. Main Street, Morgan Hill, CA 95037::8::0::1::0</description>
+      <guid isPermaLink="false">725eb8eb156785a0</guid>
+      <pubDate>Wed, 17 Feb 2010 18:36:47 GMT</pubDate>
+      <georss:point>37.14800786385798 -121.63696047983171</georss:point>
+    </item>
+    <item>
+      <title>Morgan Hill Community Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>146 Edes Ct, Morgan Hill, CA 95037::4::0::1::0</description>
+      <guid isPermaLink="false">501b83179dc10161</guid>
+      <pubDate>Tue, 26 Jan 2010 13:58:11 GMT</pubDate>
+      <georss:point>37.11527202901982 -121.64891168475151</georss:point>
+    </item>
+    <item>
+      <title>Rengstorff Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>201 S. Rengstorff Ave, Mountain View, CA 94043::8::1::1::0</description>
+      <guid isPermaLink="false">3bbf2a68eb57a89e</guid>
+      <pubDate>Wed, 27 Jan 2010 23:38:01 GMT</pubDate>
+      <georss:point>37.3988908443747 -122.09668278867724</georss:point>
+    </item>
+    <item>
+      <title>Stevenson Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>750 San Pierre Way, Mountain View, CA 94043::3::0::1::0</description>
+      <guid isPermaLink="false">2b16b78db9c202f4</guid>
+      <pubDate>Wed, 27 Jan 2010 23:38:33 GMT</pubDate>
+      <georss:point>37.40431610534569 -122.08339867493822</georss:point>
+    </item>
+    <item>
+      <title>Wishman Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>310 Easy St, Mountain View, CA 94043::4::0::1::0</description>
+      <guid isPermaLink="false">d1b54c93457b5b01</guid>
+      <pubDate>Wed, 27 Jan 2010 23:39:05 GMT</pubDate>
+      <georss:point>37.40123042823327 -122.06617682307052</georss:point>
+    </item>
+    <item>
+      <title>Cooper Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>500 Chesley Ave, Mountain View, CA 94040::4::0::1::0</description>
+      <guid isPermaLink="false">5a8bf0f2d66a8fc1</guid>
+      <pubDate>Wed, 27 Jan 2010 23:43:58 GMT</pubDate>
+      <georss:point>37.367339067915985 -122.07392442229837</georss:point>
+    </item>
+    <item>
+      <title>Cuesta Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>705 Cuesta Dr, Mountain View, CA 94040::12::1::1::0</description>
+      <guid isPermaLink="false">e78661491d54d459</guid>
+      <pubDate>Wed, 27 Jan 2010 23:44:59 GMT</pubDate>
+      <georss:point>37.371425453072426 -122.08268719914991</georss:point>
+    </item>
+    <item>
+      <title>Mountain View High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>3535 Truman Ave., Mountain View, CA 94040::7::0::1::0</description>
+      <guid isPermaLink="false">24a6cf4037d6fabe</guid>
+      <pubDate>Wed, 27 Jan 2010 23:48:47 GMT</pubDate>
+      <georss:point>37.359916477357416 -122.06547242160417</georss:point>
+    </item>
+    <item>
+      <title>Sylvan Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>550 Sylvan Ave, Mountain View, CA 94041::4::0::1::0</description>
+      <guid isPermaLink="false">17e0cce01b2204db</guid>
+      <pubDate>Thu, 28 Jan 2010 00:09:21 GMT</pubDate>
+      <georss:point>37.38154122317627 -122.06400167395782</georss:point>
+    </item>
+    <item>
+      <title>Birch Grove Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>38080 Birch St, Newark, CA 94560::4::0::1::0</description>
+      <guid isPermaLink="false">fedebed2883be160</guid>
+      <pubDate>Wed, 27 Jan 2010 23:08:39 GMT</pubDate>
+      <georss:point>37.53033456457201 -122.01463272716142</georss:point>
+    </item>
+    <item>
+      <title>Newark Community Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>35501 Cedar Blvd, Newark, CA 94560::4::0::1::0</description>
+      <guid isPermaLink="false">69783445a07eb8e1</guid>
+      <pubDate>Wed, 27 Jan 2010 23:13:28 GMT</pubDate>
+      <georss:point>37.54752970396054 -122.04153501223374</georss:point>
+    </item>
+    <item>
+      <title>Newark Memorial High</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>39375 Cedar Blvd., Newark, CA 94560::9::0::1::0</description>
+      <guid isPermaLink="false">4b124ee4371c9191</guid>
+      <pubDate>Wed, 27 Jan 2010 23:14:07 GMT</pubDate>
+      <georss:point>37.521071775518394 -122.0040863697281</georss:point>
+    </item>
+    <item>
+      <title>Occidental Community Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>3920 Bohemian Way, Occidental, CA 95465::2::1::1::0</description>
+      <guid isPermaLink="false">aedc09a5b49bc079</guid>
+      <pubDate>Wed, 17 Feb 2010 17:45:14 GMT</pubDate>
+      <georss:point>38.40970906389611 -122.94827705753323</georss:point>
+    </item>
+    <item>
+      <title>Greendell Elementary</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>4000 Middlefield Rd., Palo Alto, CA 94303::6::0::1::0</description>
+      <guid isPermaLink="false">156a8ae4f0ac0029</guid>
+      <pubDate>Wed, 27 Jan 2010 23:11:56 GMT</pubDate>
+      <georss:point>37.41702014811209 -122.1096961769295</georss:point>
+    </item>
+    <item>
+      <title>Palo Alto High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>25 Churchill Ave, Palo Alto, CA 94301::7::1::1::0</description>
+      <guid isPermaLink="false">82d6d9b89ec2e95e</guid>
+      <pubDate>Wed, 27 Jan 2010 23:14:47 GMT</pubDate>
+      <georss:point>37.43424334974246 -122.15559221992112</georss:point>
+    </item>
+    <item>
+      <title>Rinconada Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>777 Embarcadero Rd, Palo Alto, CA 94303::9::1::1::0</description>
+      <guid isPermaLink="false">784d11c8b962bd92</guid>
+      <pubDate>Wed, 27 Jan 2010 23:16:16 GMT</pubDate>
+      <georss:point>37.44435882127776 -122.14190015973292</georss:point>
+    </item>
+    <item>
+      <title>Alexander Peers Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>1899 Park Blvd, Palo Alto, CA 94305::2::0::1::0</description>
+      <guid isPermaLink="false">de782dc0fe09e426</guid>
+      <pubDate>Wed, 27 Jan 2010 23:19:37 GMT</pubDate>
+      <georss:point>37.43207089781266 -122.14726171031185</georss:point>
+    </item>
+    <item>
+      <title>Gunn High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>780 Arastradero Road, Palo Alto, CA 94306::7::0::1::0</description>
+      <guid isPermaLink="false">287857c62a3682db</guid>
+      <pubDate>Wed, 27 Jan 2010 23:24:57 GMT</pubDate>
+      <georss:point>37.40363814471862 -122.13337236078257</georss:point>
+    </item>
+    <item>
+      <title>Hoover Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>2901 Cowper St, Palo Alto, CA 94306::2::0::1::0</description>
+      <guid isPermaLink="false">b533d246f3691785</guid>
+      <pubDate>Wed, 27 Jan 2010 23:25:32 GMT</pubDate>
+      <georss:point>37.430144783496225 -122.12918123313523</georss:point>
+    </item>
+    <item>
+      <title>Stanford Middle School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>480 East Meadow Dr, Palo Alto, CA 94306::7::0::1::0</description>
+      <guid isPermaLink="false">d2b15a93e15eaee6</guid>
+      <pubDate>Wed, 27 Jan 2010 23:27:48 GMT</pubDate>
+      <georss:point>37.41952473182274 -122.11693870898438</georss:point>
+    </item>
+    <item>
+      <title>Frederick Weisshaar Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>2271 Dartmouth St, Palo Alto, CA 94306::2::0::1::0</description>
+      <guid isPermaLink="false">ea88c7b8d2b762eb</guid>
+      <pubDate>Wed, 27 Jan 2010 23:28:55 GMT</pubDate>
+      <georss:point>37.41915932681526 -122.15211075067839</georss:point>
+    </item>
+    <item>
+      <title>Mitchell Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>600 East Meadow Dr, Palo Alto, CA 94306::6::1::1::0</description>
+      <guid isPermaLink="false">693d39fdc13c87eb</guid>
+      <pubDate>Wed, 27 Jan 2010 23:26:55 GMT</pubDate>
+      <georss:point>37.421397829335845 -122.1136012903213</georss:point>
+    </item>
+    <item>
+      <title>Patterson High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>200 N. Seventh St., Patterson, CA 95363::4::1::1::0</description>
+      <guid isPermaLink="false">52002748cd05e1cb</guid>
+      <pubDate>Wed, 17 Feb 2010 19:39:06 GMT</pubDate>
+      <georss:point>37.47193270662047 -121.13910196231853</georss:point>
+    </item>
+    <item>
+      <title>Pescadero High</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>328 Butano Cut-Off, Pescadero, CA 94060::2::0::1::0</description>
+      <guid isPermaLink="false">c49edbdbaa5c36b3</guid>
+      <pubDate>Tue, 02 Feb 2010 22:55:35 GMT</pubDate>
+      <georss:point>37.24819647337557 -122.36621238559723</georss:point>
+    </item>
+    <item>
+      <title>Portola Valley Recreation</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>765 Portola Rd, Portola Valley, CA 94028::3::0::1::0</description>
+      <guid isPermaLink="false">c68026999b8e7e3d</guid>
+      <pubDate>Wed, 27 Jan 2010 23:33:33 GMT</pubDate>
+      <georss:point>37.38190096865812 -122.23006655127341</georss:point>
+    </item>
+    <item>
+      <title>Arguello Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>350 Phelps Rd, San Carlos, CA 94070::4::1::1::0</description>
+      <guid isPermaLink="false">99fbbe53437044e6</guid>
+      <pubDate>Tue, 26 Jan 2010 13:26:13 GMT</pubDate>
+      <georss:point>37.504583074270386 -122.27593562236791</georss:point>
+    </item>
+    <item>
+      <title>San Carlos Rec Center</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>Cedar St At Brittan Ave, San Carlos, CA 94070::3::1::1::0</description>
+      <guid isPermaLink="false">57d6cc6438b26f34</guid>
+      <pubDate>Tue, 26 Jan 2010 13:26:52 GMT</pubDate>
+      <georss:point>37.49756233473489 -122.2593597351264</georss:point>
+    </item>
+    <item>
+      <title>Highlands Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>2614 Melendy Dr, San Carlos, CA 94070::5::1::1::0</description>
+      <guid isPermaLink="false">3123ddc633563a22</guid>
+      <pubDate>Tue, 26 Jan 2010 13:27:39 GMT</pubDate>
+      <georss:point>37.493819729970056 -122.27412145664948</georss:point>
+    </item>
+    <item>
+      <title>San Miguel Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>San Jose Ct, Walnut Creek, CA 94598::2::0::1::0</description>
+      <guid isPermaLink="false">98a38de3ea23f1a1</guid>
+      <pubDate>Tue, 26 Jan 2010 14:08:25 GMT</pubDate>
+      <georss:point>37.91376827746737 -122.03734853715804</georss:point>
+    </item>
+    <item>
+      <title>Calabasas Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>Rainbow Dr &amp;amp; Blaney Ave, San Jose, CA 95129::2::0::1::0</description>
+      <guid isPermaLink="false">47f288d9865ae6de</guid>
+      <pubDate>Tue, 02 Feb 2010 22:43:02 GMT</pubDate>
+      <georss:point>37.301606587626736 -122.02433617923736</georss:point>
+    </item>
+    <item>
+      <title>Lynbrook High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>1280 Johnson Ave., San Jose, CA 95129::7::0::1::0</description>
+      <guid isPermaLink="false">eb651da07d571945</guid>
+      <pubDate>Tue, 02 Feb 2010 22:43:47 GMT</pubDate>
+      <georss:point>37.299416051738 -122.00532743914795</georss:point>
+    </item>
+    <item>
+      <title>Murdock Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>Wunderlich Dr &amp;amp; Castle Glen Ave, San Jose, CA 95129::4::0::1::0</description>
+      <guid isPermaLink="false">294a632933627d94</guid>
+      <pubDate>Tue, 02 Feb 2010 22:44:48 GMT</pubDate>
+      <georss:point>37.30216009617665 -121.99729096889501</georss:point>
+    </item>
+    <item>
+      <title>Townsend Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>Gordy Dr &amp;amp; Townsend Ave, San Jose, CA 95131::2::0::1::0</description>
+      <guid isPermaLink="false">58575ae7c87a798b</guid>
+      <pubDate>Tue, 02 Feb 2010 22:57:38 GMT</pubDate>
+      <georss:point>37.38038907180259 -121.88471448844626</georss:point>
+    </item>
+    <item>
+      <title>Backesto Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>13th and Empire Streets, San Jose, CA 95112::8::0::1::0</description>
+      <guid isPermaLink="false">e007171edc6bfa99</guid>
+      <pubDate>Tue, 02 Feb 2010 23:08:26 GMT</pubDate>
+      <georss:point>37.35294023420818 -121.8848477252007</georss:point>
+    </item>
+    <item>
+      <title>Del Mar High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>1224 del Mar Ave., San Jose, CA 95128::7::0::1::0</description>
+      <guid isPermaLink="false">2327a2d9b0318a56</guid>
+      <pubDate>Tue, 02 Feb 2010 23:09:30 GMT</pubDate>
+      <georss:point>37.3028959874699 -121.9285780390091</georss:point>
+    </item>
+    <item>
+      <title>Hamann Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>North Central &amp;amp; Westfield Aves, San Jose, CA 95128::3::0::1::0</description>
+      <guid isPermaLink="false">70ee6a682cee47e5</guid>
+      <pubDate>Tue, 02 Feb 2010 23:11:01 GMT</pubDate>
+      <georss:point>37.30378808888067 -121.9411926559751</georss:point>
+    </item>
+    <item>
+      <title>Independance High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>1776 Educational Park Dr., San Jose, CA 95133::7::1::1::0</description>
+      <guid isPermaLink="false">70babe5af5799d51</guid>
+      <pubDate>Tue, 02 Feb 2010 23:12:44 GMT</pubDate>
+      <georss:point>37.37148995962616 -121.85767564215854</georss:point>
+    </item>
+    <item>
+      <title>Lincoln High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>555 Dana Ave., San Jose, CA 95126::8::0::1::0</description>
+      <guid isPermaLink="false">5f6220f2dad049cf</guid>
+      <pubDate>Tue, 02 Feb 2010 23:13:21 GMT</pubDate>
+      <georss:point>37.32672514680704 -121.92620762502298</georss:point>
+    </item>
+    <item>
+      <title>San Jose City College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>2101 Moorpark Ave., San Jose, CA 95128::6::0::1::0</description>
+      <guid isPermaLink="false">d5f0eca66bc22237</guid>
+      <pubDate>Tue, 02 Feb 2010 23:17:27 GMT</pubDate>
+      <georss:point>37.313618246761926 -121.92698211506643</georss:point>
+    </item>
+    <item>
+      <title>Overfelt High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>1835 Cunningham Ave., San Jose, CA 95112::7::0::1::0</description>
+      <guid isPermaLink="false">f12086a987637908</guid>
+      <pubDate>Tue, 02 Feb 2010 23:16:47 GMT</pubDate>
+      <georss:point>37.33217269769244 -121.8292784305496</georss:point>
+    </item>
+    <item>
+      <title>Capitol Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>Bambi Lane &amp;amp; Peter Pan Ave, San Jose, CA 95116::2::0::1::0</description>
+      <guid isPermaLink="false">839167c5b234f40a</guid>
+      <pubDate>Tue, 02 Feb 2010 23:27:57 GMT</pubDate>
+      <georss:point>37.35229805078189 -121.8331000046158</georss:point>
+    </item>
+    <item>
+      <title>San Jose High Academy</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>275 N 24th St, San Jose, CA 95116::5::0::1::0</description>
+      <guid isPermaLink="false">7160f207d1c508a6</guid>
+      <pubDate>Wed, 03 Feb 2010 23:49:16 GMT</pubDate>
+      <georss:point>37.35165943265262 -121.87323908863828</georss:point>
+    </item>
+    <item>
+      <title>Bramhall Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>Willow St &amp;amp; Camino Ramon, San Jose, CA 95125::6::0::1::0</description>
+      <guid isPermaLink="false">7d8829855b18a5b2</guid>
+      <pubDate>Thu, 04 Feb 2010 00:04:14 GMT</pubDate>
+      <georss:point>37.30407871189602 -121.90983369842519</georss:point>
+    </item>
+    <item>
+      <title>Canoas Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>Wren &amp;amp; Thrush Drs, San Jose, CA 95125::2::0::1::0</description>
+      <guid isPermaLink="false">48b10be73c331c1a</guid>
+      <pubDate>Thu, 04 Feb 2010 00:04:51 GMT</pubDate>
+      <georss:point>37.28502421444502 -121.87707192855833</georss:point>
+    </item>
+    <item>
+      <title>Mt Pleasant Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>14232 Candler Ave, San Jose, CA 95127::2::0::1::0</description>
+      <guid isPermaLink="false">c3a178a9a8aec110</guid>
+      <pubDate>Thu, 04 Feb 2010 00:06:43 GMT</pubDate>
+      <georss:point>37.35565125558807 -121.81055162363435</georss:point>
+    </item>
+    <item>
+      <title>Wallenberg Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>2177 Cottle Ave., San Jose, CA 95125::8::1::1::0</description>
+      <guid isPermaLink="false">52b7980b7d4bfcc4</guid>
+      <pubDate>Thu, 04 Feb 2010 00:08:37 GMT</pubDate>
+      <georss:point>37.288126617515864 -121.89672930953981</georss:point>
+    </item>
+    <item>
+      <title>Lick James High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>1933 Cottle Ave, San Jose, CA 95125::7::0::1::0</description>
+      <guid isPermaLink="false">2dc0efa29ae823b3</guid>
+      <pubDate>Thu, 04 Feb 2010 00:09:52 GMT</pubDate>
+      <georss:point>37.29092981486835 -121.89868195770265</georss:point>
+    </item>
+    <item>
+      <title>Mt Pleasant High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>1750 S White Rd, San Jose, CA 95127::8::0::1::0</description>
+      <guid isPermaLink="false">17c41c0a843e1616</guid>
+      <pubDate>Thu, 04 Feb 2010 00:10:44 GMT</pubDate>
+      <georss:point>37.347360432845356 -121.80725374568555</georss:point>
+    </item>
+    <item>
+      <title>River Glen Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>1696 Parkside Ave, San Jose, CA 95125::2::0::1::0</description>
+      <guid isPermaLink="false">5c1f1729659cea9e</guid>
+      <pubDate>Thu, 04 Feb 2010 00:13:39 GMT</pubDate>
+      <georss:point>37.30184780601491 -121.88845373690128</georss:point>
+    </item>
+    <item>
+      <title>Cataldi Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>2990 Cataldi Drive, San Jose, CA 95132::7::0::1::0</description>
+      <guid isPermaLink="false">babff2c0e832ef69</guid>
+      <pubDate>Thu, 04 Feb 2010 00:17:02 GMT</pubDate>
+      <georss:point>37.4027613015641 -121.8674243829422</georss:point>
+    </item>
+    <item>
+      <title>Peidmont Hills High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>1377 Piedmont Rd., San Jose, CA 95132::6::0::1::0</description>
+      <guid isPermaLink="false">37150b956ad57e49</guid>
+      <pubDate>Thu, 04 Feb 2010 00:18:03 GMT</pubDate>
+      <georss:point>37.40230406744239 -121.85308280062486</georss:point>
+    </item>
+    <item>
+      <title>Yerba Buena High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>1855 Lucretia Ave., San Jose, CA 95122::7::1::1::0</description>
+      <guid isPermaLink="false">9b8b525af17043e4</guid>
+      <pubDate>Thu, 04 Feb 2010 00:19:01 GMT</pubDate>
+      <georss:point>37.3192735289826 -121.85099956483458</georss:point>
+    </item>
+    <item>
+      <title>Doerr Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>2571 Park Wilshire Dr, San Jose, CA 95124::4::0::1::0</description>
+      <guid isPermaLink="false">b13ec770065eb971</guid>
+      <pubDate>Thu, 04 Feb 2010 00:22:07 GMT</pubDate>
+      <georss:point>37.27399834154371 -121.91756308078766</georss:point>
+    </item>
+    <item>
+      <title>Houge Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>3966 Twilight Dr, San Jose, CA 95124::2::0::1::0</description>
+      <guid isPermaLink="false">593d203ffec1e84d</guid>
+      <pubDate>Thu, 04 Feb 2010 00:22:54 GMT</pubDate>
+      <georss:point>37.25745236788379 -121.94267303537367</georss:point>
+    </item>
+    <item>
+      <title>Leigh High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>5210 Leigh Ave, San Jose, CA 95124::6::0::1::0</description>
+      <guid isPermaLink="false">6c25924e43e260f3</guid>
+      <pubDate>Thu, 04 Feb 2010 00:24:33 GMT</pubDate>
+      <georss:point>37.242811388947565 -121.9175091769792</georss:point>
+    </item>
+    <item>
+      <title>Branham High</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>1570 Branham Ln., San Jose, CA 95118::6::0::1::0</description>
+      <guid isPermaLink="false">f95256e39d5cc309</guid>
+      <pubDate>Thu, 04 Feb 2010 00:25:23 GMT</pubDate>
+      <georss:point>37.25346537583702 -121.898142258583</georss:point>
+    </item>
+    <item>
+      <title>Broadway High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>1242 Branham Ln, San Jose, CA 95118::4::0::1::0</description>
+      <guid isPermaLink="false">5c771b7db69d13c6</guid>
+      <pubDate>Thu, 04 Feb 2010 00:26:26 GMT</pubDate>
+      <georss:point>37.260197255441014 -121.88154893058015</georss:point>
+    </item>
+    <item>
+      <title>Groesbeck Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>Klein Rd &amp;amp; Cedardale Dr, San Jose, CA 95118::3::0::1::0</description>
+      <guid isPermaLink="false">b834e3ba46901380</guid>
+      <pubDate>Thu, 04 Feb 2010 00:27:39 GMT</pubDate>
+      <georss:point>37.337445751567586 -121.77845484390258</georss:point>
+    </item>
+    <item>
+      <title>Gunderson High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>622 Gaundabert Lane, San Jose, CA 95136::7::0::1::0</description>
+      <guid isPermaLink="false">4a72c1a6c2c6b472</guid>
+      <pubDate>Thu, 04 Feb 2010 00:28:15 GMT</pubDate>
+      <georss:point>37.25682765387857 -121.8558510483017</georss:point>
+    </item>
+    <item>
+      <title>Moore Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>3241 Cherry Ave, San Jose, CA 95118::4::1::1::0</description>
+      <guid isPermaLink="false">c4a444df11c84f8</guid>
+      <pubDate>Thu, 04 Feb 2010 00:30:06 GMT</pubDate>
+      <georss:point>37.2718621033953 -121.88947767019272</georss:point>
+    </item>
+    <item>
+      <title>Pioneer High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>1290 Blossom Hill Rd., San Jose, CA 95118::8::0::1::0</description>
+      <guid isPermaLink="false">b3b1317fb0438cb1</guid>
+      <pubDate>Thu, 04 Feb 2010 00:30:41 GMT</pubDate>
+      <georss:point>37.245986456893085 -121.8816820793457</georss:point>
+    </item>
+    <item>
+      <title>Silver Creek High</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>3434 Silver Creek Rd., San Jose, CA 95121::6::0::1::0</description>
+      <guid isPermaLink="false">4985f2f3b9a1a287</guid>
+      <pubDate>Thu, 04 Feb 2010 00:35:15 GMT</pubDate>
+      <georss:point>37.30206459881415 -121.80526148542782</georss:point>
+    </item>
+    <item>
+      <title>Solari Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>3590 Cas Dr, San Jose, CA 95111::3::0::1::0</description>
+      <guid isPermaLink="false">665e5f67b1d2ad12</guid>
+      <pubDate>Thu, 04 Feb 2010 00:40:17 GMT</pubDate>
+      <georss:point>37.28495138059177 -121.83340245634457</georss:point>
+    </item>
+    <item>
+      <title>Cahalan Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>740 Homeward Pl, San Jose, CA 95123::2::0::1::0</description>
+      <guid isPermaLink="false">cac565429b5b22d2</guid>
+      <pubDate>Thu, 04 Feb 2010 00:43:12 GMT</pubDate>
+      <georss:point>37.24627153022065 -121.84932953142169</georss:point>
+    </item>
+    <item>
+      <title>Oak Grove High</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>285 Blossom Hill Rd., San Jose, CA 95123::6::0::1::0</description>
+      <guid isPermaLink="false">23cd2af52b069983</guid>
+      <pubDate>Thu, 04 Feb 2010 00:46:24 GMT</pubDate>
+      <georss:point>37.254194733369324 -121.82104144313052</georss:point>
+    </item>
+    <item>
+      <title>Santa Teresa High</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>6150 Snell Rd., San Jose, CA 95123::6::1::1::0</description>
+      <guid isPermaLink="false">b0968d352c544642</guid>
+      <pubDate>Thu, 04 Feb 2010 00:48:02 GMT</pubDate>
+      <georss:point>37.23398973677329 -121.8299212023773</georss:point>
+    </item>
+    <item>
+      <title>Leland High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>6677 Camden Ave, San Jose, CA 95120::8::1::1::0</description>
+      <guid isPermaLink="false">5d5a7796fd445f93</guid>
+      <pubDate>Wed, 17 Feb 2010 17:28:34 GMT</pubDate>
+      <georss:point>37.21620128301324 -121.84346215309523</georss:point>
+    </item>
+    <item>
+      <title>Los Paseos Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>138 Avenida Grande, San Jose, CA 95139::4::0::1::0</description>
+      <guid isPermaLink="false">ba618181dc989635</guid>
+      <pubDate>Wed, 17 Feb 2010 17:31:05 GMT</pubDate>
+      <georss:point>37.22787549098174 -121.77221350371837</georss:point>
+    </item>
+    <item>
+      <title>Evergreen Valley College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>3095 Yerba Buena Rd, San Jose, CA 95135::8::1::1::0</description>
+      <guid isPermaLink="false">1c11874844ea7cca</guid>
+      <pubDate>Wed, 17 Feb 2010 17:40:06 GMT</pubDate>
+      <georss:point>37.29842233959011 -121.7635049781876</georss:point>
+    </item>
+    <item>
+      <title>Hill High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>3200 Senter Rd., San Jose, CA 95111::6::0::1::0</description>
+      <guid isPermaLink="false">dff0fe52aedb1cdf</guid>
+      <pubDate>Thu, 04 Feb 2010 00:33:38 GMT</pubDate>
+      <georss:point>37.294129610759256 -121.83093944047544</georss:point>
+    </item>
+    <item>
+      <title>Athans Downs Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>3000 Monetvideo Dr, San Ramon, CA 94583::4::1::1::0</description>
+      <guid isPermaLink="false">f8308df94dca4e9a</guid>
+      <pubDate>Tue, 26 Jan 2010 13:53:51 GMT</pubDate>
+      <georss:point>37.749967739524365 -121.95542420370481</georss:point>
+    </item>
+    <item>
+      <title>California High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>9900 Broadmoor Dr, San Ramon, CA 94583::6::1::1::0</description>
+      <guid isPermaLink="false">34b30e24bd701645</guid>
+      <pubDate>Tue, 26 Jan 2010 13:54:45 GMT</pubDate>
+      <georss:point>37.748879082008116 -121.94755274966815</georss:point>
+    </item>
+    <item>
+      <title>Coyote Crossing Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>3495 Rosincress Dr, San Ramon, CA 94583::1::0::1::0</description>
+      <guid isPermaLink="false">94ed7297214184ed</guid>
+      <pubDate>Tue, 26 Jan 2010 14:02:37 GMT</pubDate>
+      <georss:point>37.77714382881866 -121.94202144544732</georss:point>
+    </item>
+    <item>
+      <title>Central Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>12501 Alcosta Blvd, San Ramon, CA 94583::3::1::1::0</description>
+      <guid isPermaLink="false">42247ad0ac391e35</guid>
+      <pubDate>Tue, 26 Jan 2010 14:08:57 GMT</pubDate>
+      <georss:point>37.76736469655594 -121.95477556944746</georss:point>
+    </item>
+    <item>
+      <title>Fairway Glen Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>2051 Calle de Primavera, Santa Clara, CA 95054::2::0::1::0</description>
+      <guid isPermaLink="false">7ec9824063baf7d6</guid>
+      <pubDate>Thu, 28 Jan 2010 19:15:47 GMT</pubDate>
+      <georss:point>37.40534999710259 -121.96148917923739</georss:point>
+    </item>
+    <item>
+      <title>Lick Mill Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>Avenida de Los Arboles, Santa Clara, CA 95054::2::0::1::0</description>
+      <guid isPermaLink="false">4cb3a1a59a61737b</guid>
+      <pubDate>Thu, 28 Jan 2010 19:16:44 GMT</pubDate>
+      <georss:point>37.40333652098607 -121.95747927676012</georss:point>
+    </item>
+    <item>
+      <title>Mission College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>3000 Mission Collge Blvd, Santa Clara, CA 95054::9::1::1::0</description>
+      <guid isPermaLink="false">ee971e481e8f0d8c</guid>
+      <pubDate>Thu, 28 Jan 2010 19:21:29 GMT</pubDate>
+      <georss:point>37.392292394834484 -121.98506870506276</georss:point>
+    </item>
+    <item>
+      <title>Montague Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>3595 MacGregor Lane, Santa Clara, CA 95054::2::0::1::0</description>
+      <guid isPermaLink="false">f9c5aeefcc8180d5</guid>
+      <pubDate>Tue, 02 Feb 2010 22:18:23 GMT</pubDate>
+      <georss:point>37.38798378368506 -121.94454832846065</georss:point>
+    </item>
+    <item>
+      <title>Homestead Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>3445 Benton St, Santa Clara, CA 95051::2::1::1::0</description>
+      <guid isPermaLink="false">795e641375f6e681</guid>
+      <pubDate>Tue, 02 Feb 2010 22:23:24 GMT</pubDate>
+      <georss:point>37.345476145367705 -121.9921164408226</georss:point>
+    </item>
+    <item>
+      <title>Jenny Strand Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>250 Howard Dr, Santa Clara, CA 95051::1::0::1::0</description>
+      <guid isPermaLink="false">6d51d34feb2e57d3</guid>
+      <pubDate>Tue, 02 Feb 2010 22:24:05 GMT</pubDate>
+      <georss:point>37.326945627635254 -122.00450446627042</georss:point>
+    </item>
+    <item>
+      <title>Maywood Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>3330 Pruneridge Ave, Santa Clara, CA 95051::2::0::1::0</description>
+      <guid isPermaLink="false">c38b4ac5c7751bb8</guid>
+      <pubDate>Tue, 02 Feb 2010 22:25:24 GMT</pubDate>
+      <georss:point>37.33061563564916 -121.98906479762269</georss:point>
+    </item>
+    <item>
+      <title>Santa Clara High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>3000 Benton St, Santa Clara, CA 95051::8::0::1::0</description>
+      <guid isPermaLink="false">1b632f354c7993a8</guid>
+      <pubDate>Tue, 02 Feb 2010 22:26:04 GMT</pubDate>
+      <georss:point>37.34398348252319 -121.98274926389308</georss:point>
+    </item>
+    <item>
+      <title>Central Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>2625 Hayward Dr, Santa Clara, CA 95051::8::1::1::0</description>
+      <guid isPermaLink="false">3557073e2d9dff8c</guid>
+      <pubDate>Tue, 02 Feb 2010 22:26:56 GMT</pubDate>
+      <georss:point>37.3448379286101 -121.97371799618372</georss:point>
+    </item>
+    <item>
+      <title>Wilcox High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>3250 Monroe St., Santa Clara, CA 95051::6::0::1::0</description>
+      <guid isPermaLink="false">6ae70f139b6a2e5e</guid>
+      <pubDate>Tue, 02 Feb 2010 22:28:06 GMT</pubDate>
+      <georss:point>37.36499100796072 -121.9823908743133</georss:point>
+    </item>
+    <item>
+      <title>Henry Schmidt Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>555 Los Padres Blvd, Santa Clara, CA 95050::4::0::1::0</description>
+      <guid isPermaLink="false">98f30ab07a77c5b5</guid>
+      <pubDate>Tue, 02 Feb 2010 22:29:56 GMT</pubDate>
+      <georss:point>37.33643064630492 -121.96113152513112</georss:point>
+    </item>
+    <item>
+      <title>Santa Clara University</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>500 El Camino Real, Santa Clara, CA 95053::9::1::1::0</description>
+      <guid isPermaLink="false">a9cc9b9827249802</guid>
+      <pubDate>Tue, 02 Feb 2010 22:40:11 GMT</pubDate>
+      <georss:point>37.348545299316285 -121.93471053701779</georss:point>
+    </item>
+    <item>
+      <title>Derby Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>508 Woodland Way, Santa Cruz, CA 95060::2::0::1::0</description>
+      <guid isPermaLink="false">7b85f87f17d53f3c</guid>
+      <pubDate>Wed, 17 Feb 2010 17:37:05 GMT</pubDate>
+      <georss:point>36.95391629918291 -122.05074183166897</georss:point>
+    </item>
+    <item>
+      <title>Santa Cruz High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>415 Walnut Avenue, Santa Cruz, CA 95060::6::0::1::0</description>
+      <guid isPermaLink="false">860eda9baf4ab5ce</guid>
+      <pubDate>Wed, 17 Feb 2010 17:45:59 GMT</pubDate>
+      <georss:point>36.97002022828825 -122.03321243187707</georss:point>
+    </item>
+    <item>
+      <title>University Terrace Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>Meder St &amp;amp; Nobel Dr, Santa Cruz, CA 95060::2::0::1::0</description>
+      <guid isPermaLink="false">8e266079b84bbe95</guid>
+      <pubDate>Wed, 17 Feb 2010 17:49:47 GMT</pubDate>
+      <georss:point>36.97355284423187 -122.05481062593367</georss:point>
+    </item>
+    <item>
+      <title>Harbor High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>300 La Fonda Ave, Santa Cruz, CA 95062::6::1::1::0</description>
+      <guid isPermaLink="false">f5cd8e9394ed13a3</guid>
+      <pubDate>Wed, 17 Feb 2010 18:11:40 GMT</pubDate>
+      <georss:point>36.98690054272546 -121.99028936239625</georss:point>
+    </item>
+    <item>
+      <title>West Valley College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>14000 Fruitvale Ave, Saratoga, CA 95070::16::1::1::0</description>
+      <guid isPermaLink="false">1ec4a333f4d7be7f</guid>
+      <pubDate>Tue, 02 Feb 2010 23:19:44 GMT</pubDate>
+      <georss:point>37.25969080777311 -122.01158616532893</georss:point>
+    </item>
+    <item>
+      <title>Scotts Valley High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>555 Glenwood Dr., Scotts Valley, CA 95066::6::0::1::0</description>
+      <guid isPermaLink="false">5f51470645bf718a</guid>
+      <pubDate>Wed, 17 Feb 2010 17:46:43 GMT</pubDate>
+      <georss:point>37.07130665073658 -122.00848164354704</georss:point>
+    </item>
+    <item>
+      <title>SkyPark</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>361 Kings Village Rd, Scotts Valley, CA 95066::4::1::1::0</description>
+      <guid isPermaLink="false">e38c207b5cab7e40</guid>
+      <pubDate>Wed, 17 Feb 2010 17:47:24 GMT</pubDate>
+      <georss:point>37.05404691544725 -122.03119518154523</georss:point>
+    </item>
+    <item>
+      <title>Soquel High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>401 Old San Jose Rd, Soquel, CA 95073::6::0::1::0</description>
+      <guid isPermaLink="false">d9c586dca97fcaf8</guid>
+      <pubDate>Wed, 17 Feb 2010 18:06:15 GMT</pubDate>
+      <georss:point>36.992974037737945 -121.95840659524538</georss:point>
+    </item>
+    <item>
+      <title>Stanford University</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>641 E Campus Dr, Stanford, CA 94305::17::1::1::0</description>
+      <guid isPermaLink="false">367401091fdf97f</guid>
+      <pubDate>Wed, 27 Jan 2010 23:20:48 GMT</pubDate>
+      <georss:point>37.430809533321565 -122.16220690443805</georss:point>
+    </item>
+    <item>
+      <title>Lakewood Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>834 Lakechime Dr, Sunnyvale, CA 94089::2::1::0::1</description>
+      <guid isPermaLink="false">ca7fd33280de9e59</guid>
+      <pubDate>Wed, 27 Jan 2010 23:45:49 GMT</pubDate>
+      <georss:point>37.39819367319971 -122.00065908829117</georss:point>
+    </item>
+    <item>
+      <title>Braly Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>704 Daffodil Ct, Sunnyvale, CA 94086::2::1::1::0</description>
+      <guid isPermaLink="false">d7687be62b5d55a2</guid>
+      <pubDate>Thu, 28 Jan 2010 00:19:34 GMT</pubDate>
+      <georss:point>37.36323038407403 -122.02025071429443</georss:point>
+    </item>
+    <item>
+      <title>Ponderosa Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>811 Henderson Ave, Sunnyvale, CA 94086::2::1::1::0</description>
+      <guid isPermaLink="false">479d7f7dc611d73</guid>
+      <pubDate>Thu, 28 Jan 2010 00:27:44 GMT</pubDate>
+      <georss:point>37.36150179128229 -122.00543144543843</georss:point>
+    </item>
+    <item>
+      <title>Columbia Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>739 Morse Ave., Sunnyvale, CA 94086::2::1::1::0</description>
+      <guid isPermaLink="false">53e4a7433a072f0c</guid>
+      <pubDate>Thu, 28 Jan 2010 00:29:49 GMT</pubDate>
+      <georss:point>37.39576064974205 -122.02022126158522</georss:point>
+    </item>
+    <item>
+      <title>Washington Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>840 West Washington Ave, Sunnyvale, CA 94086::2::1::1::0</description>
+      <guid isPermaLink="false">2466a34eef87bed4</guid>
+      <pubDate>Thu, 28 Jan 2010 00:30:23 GMT</pubDate>
+      <georss:point>37.37783732037419 -122.04048743320464</georss:point>
+    </item>
+    <item>
+      <title>Fremont High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>1279 Sunnyvale-Saratoga Rd., Sunnyvale, CA 94087::7::1::1::0</description>
+      <guid isPermaLink="false">e35fe504660dd390</guid>
+      <pubDate>Thu, 28 Jan 2010 19:17:20 GMT</pubDate>
+      <georss:point>37.35376656802107 -122.03621152449796</georss:point>
+    </item>
+    <item>
+      <title>Sunnyvale Middle School Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>983 W Remington Dr, Sunnyvale, CA 94087::6::1::1::0</description>
+      <guid isPermaLink="false">6dd41fa7b9c0837b</guid>
+      <pubDate>Thu, 28 Jan 2010 19:20:16 GMT</pubDate>
+      <georss:point>37.359817665371814 -122.05191498014824</georss:point>
+    </item>
+    <item>
+      <title>Ortega Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>636 Harrow Way, Sunnyvale, CA 94087::2::0::1::0</description>
+      <guid isPermaLink="false">8806e5af4a4b7c07</guid>
+      <pubDate>Tue, 02 Feb 2010 22:19:10 GMT</pubDate>
+      <georss:point>37.34151178920897 -122.02528657308573</georss:point>
+    </item>
+    <item>
+      <title>Serra Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>1547 Hollenbeck Ave, Sunnyvale, CA 94087::4::1::1::0</description>
+      <guid isPermaLink="false">a66fd5d8432ea975</guid>
+      <pubDate>Tue, 02 Feb 2010 22:21:20 GMT</pubDate>
+      <georss:point>37.343207129007396 -122.0418253961563</georss:point>
+    </item>
+    <item>
+      <title>Arroyo Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>35199 Perry Rd, Union City, CA 94587::4::0::1::0</description>
+      <guid isPermaLink="false">7dc74c529411dc1</guid>
+      <pubDate>Tue, 26 Jan 2010 13:45:11 GMT</pubDate>
+      <georss:point>37.58038244043454 -122.01465803439333</georss:point>
+    </item>
+    <item>
+      <title>James Logan High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>1800 H St., Union City, CA 94587::10::0:1::0</description>
+      <guid isPermaLink="false">c0895c3868ec3b01</guid>
+      <pubDate>Tue, 26 Jan 2010 13:49:51 GMT</pubDate>
+      <georss:point>37.59096665163258 -122.02353032205968</georss:point>
+    </item>
+    <item>
+      <title>Union City Tennis Center</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>34009 Alvarado-Niles Rd, Union City, CA 9587::11::1::1::0</description>
+      <guid isPermaLink="false">acb764890a14bbb1</guid>
+      <pubDate>Tue, 26 Jan 2010 13:50:29 GMT</pubDate>
+      <georss:point>37.590715860568864 -122.02876227472694</georss:point>
+    </item>
+    <item>
+      <title>Callaghan Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>225 Sudden St, Watsonville, CA 95076::2::0::1::0</description>
+      <guid isPermaLink="false">57efbac2a8a6b3a9</guid>
+      <pubDate>Wed, 17 Feb 2010 19:45:19 GMT</pubDate>
+      <georss:point>36.91665616618384 -121.76008541370004</georss:point>
+    </item>
+    <item>
+      <title>Crestview Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>Brewington Ave &amp;amp; Crestview Dr, Watsonville, CA 95076::1::0::1::0</description>
+      <guid isPermaLink="false">6676c289b55515ba</guid>
+      <pubDate>Wed, 17 Feb 2010 19:46:26 GMT</pubDate>
+      <georss:point>36.92826097070264 -121.75964172023771</georss:point>
+    </item>
+    <item>
+      <title>Joyce McKenzie Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>500 Joyce Dr, Watsonville, CA 95076::2::0::1::0</description>
+      <guid isPermaLink="false">348c980facb7a389</guid>
+      <pubDate>Wed, 17 Feb 2010 19:47:03 GMT</pubDate>
+      <georss:point>36.92458685602247 -121.74045100265499</georss:point>
+    </item>
+    <item>
+      <title>Ramsay Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>213 Vista Del Mar Dr, Watsonville, CA 95076::3::1::1::0</description>
+      <guid isPermaLink="false">487e0f8dd84e46db</guid>
+      <pubDate>Wed, 17 Feb 2010 19:50:48 GMT</pubDate>
+      <georss:point>36.91331769889415 -121.77255216336829</georss:point>
+    </item>
+    <item>
+      <title>Watsonville High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1588</link>
+      <description>179 Blackburn St, Watsonville, CA 95076::4::0::1::0</description>
+      <guid isPermaLink="false">a82c9b922a08a5d7</guid>
+      <pubDate>Wed, 17 Feb 2010 19:52:32 GMT</pubDate>
+      <georss:point>36.91369385402197 -121.74829694044496</georss:point>
+    </item>
+    <item>
+      <title>Woodside High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1386</link>
+      <description>199 Churchill Avenue, Woodside, CA 94062::6::0::1::0</description>
+      <guid isPermaLink="false">91a713e26b4683fd</guid>
+      <pubDate>Tue, 26 Jan 2010 13:51:41 GMT</pubDate>
+      <georss:point>37.44610991196044 -122.22898587958212</georss:point>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,71 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="FlexibleTennisLeague.Master.cs"
+    Inherits="FlexibleTennisLeague.FlexibleTennisLeague" %>
+
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="App_Themes/FlexibleTennisLeague/Tennis.css" rel="stylesheet" type="text/css" />
+
+    <script language="javascript" type="text/javascript" src="Resources/JavaScript/Script.js"></script>
+
+    <meta name="verify-v1" content="HYnkusHViWWgC40Zulhh5ewxtFl6UXF96Y3qIkmdUxI=" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+    <telerik:RadAjaxManager ID="RadAjaxManager1" runat="server">
+    </telerik:RadAjaxManager>
+    <div class="header" align="right">
+        <asp:LoginName ID="LoginName1" runat="server" />
+        &nbsp;|&nbsp;<a href="/">Home</a>&nbsp;|&nbsp;
+        <asp:LoginStatus ID="LoginStatus1" runat="server" LogoutPageUrl="loginpage.aspx" />
+        | <a href="contactus.aspx">Contact</a>
+    </div>
+    <div class="menuContainer">
+        <div class="menuButtonBig">
+            <a href="howitworks.aspx">HOW IT WORKS</a></div>
+        <div class="menuButtonBig">
+            <a href="pageoffame.aspx">PAGE OF FAME</a></div>
+        <div class="menuButton">
+            <a href="loginpage.aspx">MY LEAGUE</a></div>
+        <div class="menuButton">
+            <a href="http://www.blog.flexibletennisleague.com">BLOG</a></div>
+        <div class="menuButtonEnd">
+            <a href="locations.aspx">LOCATIONS</a></div>
+    </div>
+    <div class="innerPageBanner">
+        <a href="/">
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/Resources/Images/FlexibleTennisLeagueBanner.jpg" /></a>
+    </div>
+    <div style="height: 10px">
+    </div>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    <div class="greyContentFooter">
+    </div>
+    <p align="center">
+        Copyright © 2009 - 2010 Flexible Leagues LLC. All rights reserved. | <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=tennislover60">
+                <img src="http://s7.addthis.com/static/btn/v2/lg-bookmark-en.gif" width="125" height="16"
+                    alt="Bookmark and Share" style="border: 0" /></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=tennislover60"></script>
+
+    </p>
+    </form>
+
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-10257470-1");
+            pageTracker._trackPageview();
+        } catch (err) { }</script>
+
+</body>
+</html>

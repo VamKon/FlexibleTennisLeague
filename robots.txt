@@ -1,0 +1,13 @@
+﻿User-agent: *
+Disallow: /Denver/Users/
+Disallow: /LosAngeles/Users/
+Disallow: /Atlanta/Users/
+Disallow: /Houston/Users/
+Disallow: /Dallas/Users/
+Disallow: /SanFrancisco/Users/
+Disallow: /SanJose/Users/
+Disallow: /Chicago/Users/
+Disallow: /Common/
+Disallow: /Courts/
+Disallow: /UserControls/
+Disallow: /ProfileImages/

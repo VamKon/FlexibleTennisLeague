@@ -1,0 +1,13 @@
+E:\Development\FlexibleTennisLeague\Denver\obj\Debug\ResolveAssemblyReference.cache
+E:\Development\FlexibleTennisLeague\Denver\bin\DLL.dll
+E:\Development\FlexibleTennisLeague\Denver\bin\FlexibleTennisLeague.dll
+E:\Development\FlexibleTennisLeague\Denver\bin\Telerik.Web.UI.dll
+E:\Development\FlexibleTennisLeague\Denver\bin\Telerik.Web.UI.xml
+E:\Development\FlexibleTennisLeague\Denver\bin\FlexibleTennisLeague.pdb
+E:\Development\FlexibleTennisLeague\Denver\bin\DLL.pdb
+E:\Development\FlexibleTennisLeague\Denver\bin\FlexibleTennisLeague.Denver.dll
+E:\Development\FlexibleTennisLeague\Denver\bin\FlexibleTennisLeague.Denver.pdb
+E:\Development\FlexibleTennisLeague\Denver\obj\Debug\FlexibleTennisLeague.Denver.dll
+E:\Development\FlexibleTennisLeague\Denver\obj\Debug\FlexibleTennisLeague.Denver.pdb
+E:\Development\FlexibleTennisLeague\bin\FlexibleTennisLeague.Denver.dll
+E:\Development\FlexibleTennisLeague\bin\FlexibleTennisLeague.Denver.pdb

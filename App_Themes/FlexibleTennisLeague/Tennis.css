@@ -1,0 +1,588 @@
+﻿
+
+
+
+
+
+
+
+.set
+{
+    color: #636363;
+    font-size: 12px;
+}
+
+b
+{
+    color: #121212;
+    font-family: Tahoma;
+}
+
+.bg
+{
+    background: url(images/bg.gif) repeat-x top;
+}
+.bg2
+{
+    background: url(images/bg2.gif) repeat-x bottom;
+}
+.bg_p1
+{
+    background: url(images/p1.jpg) no-repeat top;
+}
+.bg_cvet
+{
+    background: #ebebeb;
+}
+.bg_cvet2
+{
+    background: #d7d7d7;
+}
+.bg_cvet_t
+{
+    background: #ececec;
+}
+
+.header
+{
+    color: #2C1F1E;
+    font-size: 11px;
+    padding-right:5px;
+    padding-left:5px;
+}
+#headerLeft
+{
+    float:left;
+    /*font-weight:bold;*/
+}
+#headerRight
+{
+    float:right;
+}
+.footer
+{
+    color: #dfdfdf;
+    font-size: 11px;
+    height: 88px;
+    font-family: Tahoma;
+}
+.footer a
+{
+    color: #dfdfdf;
+    font-size: 11px;
+}
+.footer a:hover
+{
+    color: #dfdfdf;
+    font-size: 11px;
+}
+
+.more
+{
+    background: url(images/1_z1.gif) center left no-repeat;
+    padding-left: 13px;
+    vertical-align: middle;
+    color: #121212;
+    text-decoration: none;
+}
+
+
+
+
+.menu
+{
+    padding:0px;
+    border:0px;
+}
+
+
+
+body
+{
+    width: 845px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0 px;
+    font-size: 11px;
+    font-family: Georgia;
+    color: #878787;
+    line-height: 16px;
+    vertical-align: top;
+}
+/**************************TABLE*****************/
+table
+{
+    border: 0px;
+    border-collapse: collapse;
+}
+/*********************************TD****************/
+td
+{
+    font-size: 11px;
+    font-family: Georgia;
+    color: #878787;
+    line-height: 16px;
+    vertical-align: top;
+    padding: 0px;
+}
+td.signUp
+{
+    height:20px;
+    text-align:left;
+    width:150px;
+}
+td.signUpBold
+{
+    height:20px;
+    text-align:left;
+    width:150px;
+    font-weight:bold;
+}
+td.signUpBoldNoWidth
+{
+    height:20px;
+    text-align:left;
+    font-weight:bold;
+}
+/***********************INPUT**************************/
+/*input
+{
+    font-size: 11px;
+    font-family: Georgia;
+    color: #878787;
+    line-height: 16px;
+    vertical-align: top;
+    padding: 0px;
+    background: #272727;
+    border: 1px solid #888888;
+    padding-left: 5px;
+    width: 165px;
+    height: 25px;
+}*/
+
+/*input1
+{
+    background: #ffffff;
+    border: 1px solid #b1b1b1;
+    padding-left: 0px;
+    width: 179px;
+    height: 19px;
+    padding-left: 5px;
+    padding-top: 1px;
+}*/
+input.signUp
+{
+    width:200px;
+}
+
+/*************************BUTTON***************************/
+.button
+{
+    background-color:#8da573;
+    color:Black;
+    border-color:#101c12;
+}
+/**************************TEXTAREA************************/
+textarea
+{
+    font-size: 11px;
+    font-family: Georgia;
+    color: #878787;
+    line-height: 16px;
+    vertical-align: top;
+    padding: 0px;
+    background: #ffffff;
+    border: 1px solid #b1b1b1;
+    padding-left: 5px;
+    width: 179px;
+    height: 98px;
+    overflow: auto;
+}
+/********************************p********************/
+p
+{
+    font-family: Arial;
+}
+
+
+p.sectionHeading
+{
+    font-size: 11 px;
+    font-weight: bold;
+}
+
+p.heading
+{
+    font-size:15px;
+    font-weight:bold;
+}
+
+
+/******************************div*************************/
+
+div.mainDiv
+{
+}
+div.row1Col1Div
+{
+    border-color: #4169E1;
+    border-width: 2px;
+    border-style: solid;
+    background-color: #D6D6D6;
+}
+div.header
+{
+    background-color:#dfdfdf;
+    min-height:20px;
+}
+div.menuContainer
+{
+    min-height:50px;
+    clear:both;
+}
+div.banner
+{
+    height:270px;
+    width:845px;
+    background-color:#8da573;
+}
+div.innerPageBanner
+{
+    height:150px;
+    width:845px;
+    clear:both;
+}
+div.tennisBallBanner
+{
+    height: 106px;
+    width: 416px;
+    background-image: url('../../Resources/Images/TennisBallsBanner.jpg');
+    background-repeat: no-repeat;
+}
+div.tennisBallBannerSingle
+{
+    height: 106px;
+    width: 416px;
+    background-image: url('../../Resources/Images/TennisBallsBanner.jpg');
+    background-repeat: no-repeat;
+    margin-left:auto;
+    margin-right:auto;
+    width:375px;
+    padding-right:10px;
+    padding-top:10px;
+    height:200px;
+}
+div.greyGradient
+{
+    height: 106px;
+    width: 416px;
+    background-image: url('../../Resources/Images/GreyGradient.jpg');
+    background-repeat: no-repeat;
+    text-align:left;
+}
+div.contentGreyTopBorder
+{
+    padding:5px;
+    border-top-color:#d7d7d7;
+    border-top-width:3px;
+    border-top-style:solid;
+    width:835px;
+}
+div.contentSplitter
+{
+    width:1px;
+    background-color:#d7d7d7;
+    
+}
+div.greyContent
+{
+    padding:5px;
+    background-color:#ececec;
+}
+#messageSource
+{
+    border-bottom:medium none;
+    border-left:medium none;
+    padding-bottom:15px;
+    line-height:1.6em;
+    margin-top:-10px;
+    padding-left:15px;
+    padding-right:15px;
+    background:#777 0px 0px;
+    margin-left:0px;
+    font-size:14px;
+    border-top:medium none;
+    border-right:medium none;
+    padding-top:0px;
+    color:white;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", Tahoma, sans-serif;
+}
+div.messageReply
+{
+    padding-bottom:10px;
+    background-color:#efefef;
+    margin-top:30px;
+    padding-left:15px;
+    padding-right:15px;
+    margin-left:70px;
+    overflow:hidden;
+    padding-top:10px;
+    color:#626262;
+    font-size:12px;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", Tahoma, sans-serif;
+}
+div.greyContentFooter
+{
+    margin-top:5px;
+    height:4px;
+    background-color:#d7d7d7;
+    clear:both;
+}
+
+div.howItWorksLeft
+{
+    width:100px;
+    clear:both;
+    float:left;
+    margin-top:20px;
+    height:100px;
+    padding:5px;
+    text-align:center;
+}
+div.howItWorksRight
+{
+    width:700px;
+    float:left;
+    margin-top:20px;
+    height:100px;
+    padding:5px;
+    background-color:#ececec;
+}
+#directionsText
+{
+    width: 400px; 
+    background-color: White; 
+    height: 400px;
+    position: absolute; 
+    display: none; 
+    z-index: 10;
+    left:640px;
+}
+
+div.greyContentFullWidth
+{
+    padding:5px;
+    width:830px;
+    background-color:#ececec;
+}
+div.profileName
+{
+    height:100px;
+    vertical-align:middle;
+    font-size:15px;
+    font-weight:bold;
+}
+#messageInput
+{
+    border:solid 2px #d7d7d7;
+    padding:5px;
+    height:60px;
+    vertical-align:middle;
+    text-align:center;
+}
+.menuButton a
+{
+    width:130px;
+    height:50px;
+    background-image: url(../../Resources/Images/menu.gif);
+    background-repeat:no-repeat;
+    text-decoration:none;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:30px;
+    color:#8da573;
+    font-size:18px;
+    font-weight:bold;
+    font-family:Helvetica Condensed;
+    float:left;
+    line-height:18px;
+    text-align:center;
+}
+.menuButton a:hover
+{
+    color:Black;
+}
+
+.menuButtonBig a
+{
+    width:173px;
+    height:50px;
+    background-image: url(../../Resources/Images/menubig.gif);
+    background-repeat:no-repeat;
+    text-decoration:none;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:30px;
+    color:#8da573;
+    font-size:18px;
+    font-weight:bold;
+    font-family:Helvetica Condensed;
+    float:left;
+    line-height:18px;
+    text-align:center;
+}
+.menuButtonBig a:hover
+{
+    color:Black;
+}
+
+.menuButtonEnd a
+{
+    width:173px;
+    height:50px;
+    text-decoration:none;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:30px;
+    color:#8da573;
+    font-size:18px;
+    font-weight:bold;
+    font-family:Helvetica Condensed;
+    float:left;
+    line-height:18px;
+    text-align:center;
+}
+.menuButtonEnd a:hover
+{
+    color:Black;
+}
+.signupButton a
+{
+    width:198px;
+    height:40px;
+    background-image: url(/Resources/Images/TennisBallsBannerSmall.jpg);
+    background-repeat:no-repeat;
+    text-decoration:none;
+    padding-right:5px;
+    padding-top:10px;
+    color:Black;
+    font-size:18px;
+    line-height:30px;
+    font-weight:bold;
+    font-family:Helvetica Condensed;
+    float:left;
+    text-align:right;
+}
+.signupButton a:hover
+{
+    color:#8da573;
+}
+/***********************************BR***************************/
+br
+{
+    font-size: 10px;
+}
+
+/************************************A************************/
+a
+{
+    color: #636363;
+    text-decoration: underline;
+}
+a:hover
+{
+    text-decoration: none;
+}
+
+a.message
+{
+    color:White;
+}
+
+/********************************SPAN************************/
+span
+{
+    color: #70a110;
+}
+span a
+{
+    color: #70a110;
+}
+span.bold
+{
+    font-weight:bold;
+}
+/*****************************Label*************************/
+label.grey
+{
+    color:#878787;
+}
+
+.pinStyle1{ position:relative; background:url('../../Resources/Images/schedule.png') no-repeat 0 0; height:30px; width:25px; color:#fff; text-align:center; font: bold 12px Arial; cursor: pointer;}
+
+.pinStyle1 .text{ position: relative; top: 2px; }
+
+
+h1
+{
+    color:#8da573;
+    font-size:14px;
+    font-weight:bold;
+}
+
+h2
+{
+    font-size:11px;
+}
+
+h3
+{
+    font-size:10px;
+}
+
+h4
+{
+}
+
+h5
+{
+}
+
+h6
+{
+}
+
+.pofTable
+{
+    border-width:2px;
+    border-style:solid;
+    border-color:Black;
+}
+
+.pofTopTD
+{
+    border-width:2px;
+    border-style:solid;
+    border-color:Black;
+    text-align:center;
+    vertical-align:middle;
+    background-color:#ececec;
+    font-weight:bold;
+}
+
+.pofImgTD
+{
+    border-right:solid 2px Black;
+    text-align:center;
+    font-weight:bold;
+    padding:5px;
+}
+
+.pofTD
+{
+    vertical-align:middle;
+    padding-left:5px;
+    padding-right:5px;
+}

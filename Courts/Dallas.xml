@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:georss="http://www.georss.org/georss" version="2.0">
+  <channel>
+    <title>Dallas</title>
+    <link>http://www.bing.com</link>
+    <description />
+    <item>
+      <title>Lake Cliff Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>757 Blaylock Dr, Dallas, TX 75203::4::1::1::0</description>
+      <guid isPermaLink="false">e867356aea3041a0</guid>
+      <pubDate>Sun, 10 Jan 2010 17:31:08 GMT</pubDate>
+      <georss:point>32.756739556720156 -96.81734774239731</georss:point>
+    </item>
+    <item>
+      <title>Randall Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>5880 Columbia Ave, Dallas, TX 75214::4::1::1::0</description>
+      <guid isPermaLink="false">9778a0e3b97c562a</guid>
+      <pubDate>Tue, 12 Jan 2010 14:38:10 GMT</pubDate>
+      <georss:point>32.804351442053466 -96.7523904490738</georss:point>
+    </item>
+    <item>
+      <title>Samuell Grand Tennis Center</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>6200 E. Grand Ave., Dallas, TX 75223::20::1::1::0</description>
+      <guid isPermaLink="false">8ee402647d95b3f0</guid>
+      <pubDate>Tue, 12 Jan 2010 21:35:43 GMT</pubDate>
+      <georss:point>32.79777905089225 -96.74042730521012</georss:point>
+    </item>
+    <item>
+      <title>Everglade Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>6132 Showbend Ln., Dallas, TX 75227::16::0::1::0</description>
+      <guid isPermaLink="false">860914ba03fbab5c</guid>
+      <pubDate>Tue, 12 Jan 2010 22:00:45 GMT</pubDate>
+      <georss:point>32.78790996632923 -96.6988663399506</georss:point>
+    </item>
+    <item>
+      <title>Kiest Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2094 Perryton Dr, Dallas, TX 75224::8::0::1::0</description>
+      <guid isPermaLink="false">9569aa1f4d28923d</guid>
+      <pubDate>Sat, 16 Jan 2010 15:31:04 GMT</pubDate>
+      <georss:point>32.71374759466493 -96.85298475826641</georss:point>
+    </item>
+    <item>
+      <title>Gateway Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2468 N Jim Miller Rd, Dallas, TX 75227::4::1::1::0</description>
+      <guid isPermaLink="false">dbf4bed78ba67e0d</guid>
+      <pubDate>Sat, 16 Jan 2010 15:30:37 GMT</pubDate>
+      <georss:point>32.756412659265415 -96.70089643914798</georss:point>
+    </item>
+    <item>
+      <title>Kiest Tennis Center</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2324 W. Kiest Blvd., Dallas, TX 75224::16::1::1::0</description>
+      <guid isPermaLink="false">69ffa64d52ad14ee</guid>
+      <pubDate>Tue, 12 Jan 2010 22:12:41 GMT</pubDate>
+      <georss:point>32.70523522523376 -96.85427137763219</georss:point>
+    </item>
+    <item>
+      <title>Fair Oaks Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>7501 Merriman Parkway, Dallas, TX 75231::16::1::1::0</description>
+      <guid isPermaLink="false">d91f85f03da28d3f</guid>
+      <pubDate>Sat, 16 Jan 2010 15:25:33 GMT</pubDate>
+      <georss:point>32.87666447898308 -96.74450684655755</georss:point>
+    </item>
+    <item>
+      <title>North Bucker Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>178 N Buckner Blvd, Dallas, TX 75218::4::1::1::0</description>
+      <guid isPermaLink="false">70f4e535600540e2</guid>
+      <pubDate>Sat, 16 Jan 2010 15:33:42 GMT</pubDate>
+      <georss:point>32.85476107662227 -96.7169885753936</georss:point>
+    </item>
+    <item>
+      <title>Pemberton Rd. Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>6201 Pemberton Dr, Dallas, TX 75230::8::0::1::0</description>
+      <guid isPermaLink="false">982e42c955287777</guid>
+      <pubDate>Tue, 12 Jan 2010 22:29:48 GMT</pubDate>
+      <georss:point>32.89155826125367 -96.7993999547005</georss:point>
+    </item>
+    <item>
+      <title>Montwood Lane</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>4113 Montwood Lane, Dallas, TX 75229::7::0::1::0</description>
+      <guid isPermaLink="false">8b0b4767557296df</guid>
+      <pubDate>Tue, 12 Jan 2010 22:34:32 GMT</pubDate>
+      <georss:point>32.885988773080236 -96.84034130555722</georss:point>
+    </item>
+    <item>
+      <title>Arden Terrace Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>Wagon Wheels Trail &amp;amp; Old Ox Rd., Dallas, TX 75241::8::0::1::0</description>
+      <guid isPermaLink="false">aff69c84666d5a2b</guid>
+      <pubDate>Tue, 12 Jan 2010 22:37:32 GMT</pubDate>
+      <georss:point>32.67947856577805 -96.79451987333311</georss:point>
+    </item>
+    <item>
+      <title>Mt. View College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>4849 W. Illinois Ave., Dallas, TX 75211::11::0::1::0</description>
+      <guid isPermaLink="false">c3215d30864fcfce</guid>
+      <pubDate>Tue, 12 Jan 2010 22:47:57 GMT</pubDate>
+      <georss:point>32.724839516124476 -96.90190901055911</georss:point>
+    </item>
+    <item>
+      <title>Pleasant Oaks Recreation Center</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>8701 Greenmound Ave, Dallas, TX 75227::2::1::1::0</description>
+      <guid isPermaLink="false">fa5bf9e4f120ef10</guid>
+      <pubDate>Sat, 16 Jan 2010 15:36:00 GMT</pubDate>
+      <georss:point>32.75231208561705 -96.67244765641402</georss:point>
+    </item>
+    <item>
+      <title>Spring Trail Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>11225 Luna Road, Dallas, TX 75229::16::1::1::0</description>
+      <guid isPermaLink="false">e5cfeae1b87fccd3</guid>
+      <pubDate>Sat, 16 Jan 2010 15:39:36 GMT</pubDate>
+      <georss:point>32.888895655884 -96.9207296309662</georss:point>
+    </item>
+    <item>
+      <title>Nimitz Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>100 W Oakdale Rd, Irving, TX 75060::6::0::1::0</description>
+      <guid isPermaLink="false">f1035918431ea86b</guid>
+      <pubDate>Tue, 12 Jan 2010 23:25:34 GMT</pubDate>
+      <georss:point>32.79247787792223 -96.94844453771202</georss:point>
+    </item>
+    <item>
+      <title>Senter Recreation Center</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>901 S. Senter, Irving, TX 75060::1::1::1::0</description>
+      <guid isPermaLink="false">f4103c9707a70eec</guid>
+      <pubDate>Tue, 12 Jan 2010 23:31:27 GMT</pubDate>
+      <georss:point>32.80426160900277 -96.94737704299172</georss:point>
+    </item>
+    <item>
+      <title>Churchill Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>6906 Churchill Way, Dallas, TX 75230::6::1::1::0</description>
+      <guid isPermaLink="false">a52aa9ac31aba06d</guid>
+      <pubDate>Sat, 16 Jan 2010 15:42:22 GMT</pubDate>
+      <georss:point>32.91840133728439 -96.78258473079688</georss:point>
+    </item>
+    <item>
+      <title>Irving High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>892 N O'Connor Rd., Duncanville, TX 75061::12::1::1::0</description>
+      <guid isPermaLink="false">de2fe5378ec3dced</guid>
+      <pubDate>Sat, 16 Jan 2010 15:41:56 GMT</pubDate>
+      <georss:point>32.82289670531736 -96.9488087441668</georss:point>
+    </item>
+    <item>
+      <title>Southern Methodist University</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>SMU Blvd, University Park, TX 75205::11::1::1::0</description>
+      <guid isPermaLink="false">39a6bd09a5050680</guid>
+      <pubDate>Sat, 16 Jan 2010 15:26:56 GMT</pubDate>
+      <georss:point>32.841491459422514 -96.77871874911955</georss:point>
+    </item>
+    <item>
+      <title>Seay Tennis Center</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>4120 Glenwick, Dallas, TX 75205::8::0::1::0</description>
+      <guid isPermaLink="false">78d614504eda9d13</guid>
+      <pubDate>Sat, 16 Jan 2010 15:28:34 GMT</pubDate>
+      <georss:point>32.84787063279903 -96.80530454365538</georss:point>
+    </item>
+    <item>
+      <title>Sunset High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>163 N. Oak Cliff Blvd, Dallas, TX 75028::4::1::1::0</description>
+      <guid isPermaLink="false">55d071992bd967b7</guid>
+      <pubDate>Sat, 16 Jan 2010 15:29:09 GMT</pubDate>
+      <georss:point>32.74633830341864 -96.85326358531955</georss:point>
+    </item>
+    <item>
+      <title>Hillcrest High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>6962 Aberdeen Ave, Dallas, TX 75230::4::0::1::0</description>
+      <guid isPermaLink="false">885856b30d40b524</guid>
+      <pubDate>Sat, 16 Jan 2010 15:32:08 GMT</pubDate>
+      <georss:point>32.88282808648773 -96.78452946857834</georss:point>
+    </item>
+    <item>
+      <title>Southwestern Medical Center</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>5323 Harry Hines Blvd., Dallas, TX 75390::2::1::1::0</description>
+      <guid isPermaLink="false">29d13a4ef1e42f6a</guid>
+      <pubDate>Sat, 16 Jan 2010 15:33:06 GMT</pubDate>
+      <georss:point>32.812424574266764 -96.84329248416134</georss:point>
+    </item>
+    <item>
+      <title>White Rock North School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>9553 Church Rd., Dallas, TX 75141::8::0::1::0</description>
+      <guid isPermaLink="false">41ec4e8e164c5f61</guid>
+      <pubDate>Sat, 16 Jan 2010 15:36:53 GMT</pubDate>
+      <georss:point>32.88675402324201 -96.72396234358592</georss:point>
+    </item>
+    <item>
+      <title>University of Dallas</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1845 East Northgate Dr., Irving, TX 75062::8::1::1::0</description>
+      <guid isPermaLink="false">93b3c0f4deda90f1</guid>
+      <pubDate>Sat, 16 Jan 2010 15:37:22 GMT</pubDate>
+      <georss:point>32.84576142777643 -96.92280740279386</georss:point>
+    </item>
+    <item>
+      <title>Nathan Adams Elementary School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>4798 College Park Dr., Dallas, TX 75229::10::1::1::0</description>
+      <guid isPermaLink="false">e46b7ad001dc40c3</guid>
+      <pubDate>Sat, 16 Jan 2010 15:38:56 GMT</pubDate>
+      <georss:point>32.90634140265291 -96.82634656315986</georss:point>
+    </item>
+    <item>
+      <title>Jessup College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>12345 Inwood Rd., Dallas, TX 75244::4::1::1::0</description>
+      <guid isPermaLink="false">7eec8711efe580e9</guid>
+      <pubDate>Sat, 16 Jan 2010 15:42:58 GMT</pubDate>
+      <georss:point>32.91671132900488 -96.81945032142636</georss:point>
+    </item>
+    <item>
+      <title>White High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>4505 Ridgeside Drive, Dallas, TX 75244::4::1::1::0</description>
+      <guid isPermaLink="false">e6b27b1f3cda4bf7</guid>
+      <pubDate>Sat, 16 Jan 2010 15:43:29 GMT</pubDate>
+      <georss:point>32.91679421944248 -96.83256849339301</georss:point>
+    </item>
+    <item>
+      <title>Richland College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>W. Circle Dr., Dallas, TX 75243::10::0::1::0</description>
+      <guid isPermaLink="false">44741429528e1815</guid>
+      <pubDate>Sat, 16 Jan 2010 15:44:19 GMT</pubDate>
+      <georss:point>32.918610463915655 -96.7275721474237</georss:point>
+    </item>
+    <item>
+      <title>Memorial Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2358 Memorial Blvd, Mesquite, TX 75149::6::0::1::0</description>
+      <guid isPermaLink="false">f1ba593be5162431</guid>
+      <pubDate>Sat, 16 Jan 2010 15:45:51 GMT</pubDate>
+      <georss:point>32.76178658050297 -96.63347726256558</georss:point>
+    </item>
+    <item>
+      <title>Dallas Baptist University</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>3000 Mountain Creek Pkwy, Dallas, TX 75211::4::0::1::0</description>
+      <guid isPermaLink="false">f0c383203945670c</guid>
+      <pubDate>Sat, 16 Jan 2010 15:46:41 GMT</pubDate>
+      <georss:point>32.71120380762986 -96.9443994258728</georss:point>
+    </item>
+    <item>
+      <title>Eastfield College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>Eastfield College, Mesquite, TX 75150::10::0::1::0</description>
+      <guid isPermaLink="false">8a112b8a51548185</guid>
+      <pubDate>Sat, 16 Jan 2010 15:47:28 GMT</pubDate>
+      <georss:point>32.813565772808666 -96.658840700984</georss:point>
+    </item>
+    <item>
+      <title>Northwest Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2800 Cheyenne St., Irving, TX 75062::2::1::1::0</description>
+      <guid isPermaLink="false">b972957b8d8e168b</guid>
+      <pubDate>Sat, 16 Jan 2010 15:47:59 GMT</pubDate>
+      <georss:point>32.84351306273868 -97.0025343019218</georss:point>
+    </item>
+    <item>
+      <title>MacArthur High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>3700 N. MacArthur Blvd., Irving, TX 75062::9::1::1::0</description>
+      <guid isPermaLink="false">b7b72b2fca605fa9</guid>
+      <pubDate>Sat, 16 Jan 2010 15:48:52 GMT</pubDate>
+      <georss:point>32.85445815329192 -96.95619621062849</georss:point>
+    </item>
+    <item>
+      <title>Republic Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1694 Republic Pkwy, Mesquite, TX 75150::4::1::1::0</description>
+      <guid isPermaLink="false">3cd1d282a058955f</guid>
+      <pubDate>Sat, 16 Jan 2010 15:49:20 GMT</pubDate>
+      <georss:point>32.8307155646303 -96.62437862502293</georss:point>
+    </item>
+    <item>
+      <title>Brookhaven College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>Alpha Rd, Dallas, TX 75244::8::1::1::0</description>
+      <guid isPermaLink="false">9ddd510219ad1127</guid>
+      <pubDate>Sat, 16 Jan 2010 15:49:56 GMT</pubDate>
+      <georss:point>32.930186221791374 -96.84724313574833</georss:point>
+    </item>
+    <item>
+      <title>Greenhill School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>4141 Spring Valley Road, Addison, TX 75001::10::1::1::0</description>
+      <guid isPermaLink="false">afc7afe3bd554401</guid>
+      <pubDate>Sat, 16 Jan 2010 15:51:27 GMT</pubDate>
+      <georss:point>32.942301671737226 -96.84591455127344</georss:point>
+    </item>
+    <item>
+      <title>Westlake Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>601 Gross Rd., Mesquite, TX 75149::6::1::1::0</description>
+      <guid isPermaLink="false">9e9dbaa3b1ea31f2</guid>
+      <pubDate>Sat, 16 Jan 2010 15:52:15 GMT</pubDate>
+      <georss:point>32.77210970736913 -96.61786239517596</georss:point>
+    </item>
+    <item>
+      <title>Orangood Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>13469 Tom Fields Rd, Dallas, TX 75234::4::1::1::0</description>
+      <guid isPermaLink="false">3e54c188a041a648</guid>
+      <pubDate>Sat, 16 Jan 2010 15:52:55 GMT</pubDate>
+      <georss:point>32.927242967784856 -96.88776642824172</georss:point>
+    </item>
+    <item>
+      <title>Fretz Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>14700 Hillcrest Road, Dallas, TX 75254::15::1::1::0</description>
+      <guid isPermaLink="false">6f19cffd2cffea21</guid>
+      <pubDate>Sat, 16 Jan 2010 15:53:33 GMT</pubDate>
+      <georss:point>32.948374234288 -96.78320071429448</georss:point>
+    </item>
+    <item>
+      <title>Duncanville High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>538 N. Greenstone Lane, Duncanville, TX 75116::12::0::1::0</description>
+      <guid isPermaLink="false">1a14b6f86c1baced</guid>
+      <pubDate>Sat, 16 Jan 2010 15:54:48 GMT</pubDate>
+      <georss:point>32.65989188809154 -96.9319447200387</georss:point>
+    </item>
+    <item>
+      <title>East Freeman Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>476 E Freeman St, Duncanville, TX 75116::2::0::1::0</description>
+      <guid isPermaLink="false">f8e8c398acc72b56</guid>
+      <pubDate>Sat, 16 Jan 2010 15:55:16 GMT</pubDate>
+      <georss:point>32.6497889277583 -96.90161362698364</georss:point>
+    </item>
+    <item>
+      <title>Poteet High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>3314 Poteet Dr., Mesquite, TX 75150::6::0::1::0</description>
+      <guid isPermaLink="false">c324863fc29ecd3b</guid>
+      <pubDate>Sat, 16 Jan 2010 15:55:58 GMT</pubDate>
+      <georss:point>32.80685827234415 -96.60818341964341</georss:point>
+    </item>
+    <item>
+      <title>North Lake College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>4959 N. Macarthur Blvd., Irving, TX 75038::6::0::1::0</description>
+      <guid isPermaLink="false">ee62c3d4e2e053b8</guid>
+      <pubDate>Sat, 16 Jan 2010 15:57:25 GMT</pubDate>
+      <georss:point>32.8727524911656 -96.96408805557252</georss:point>
+    </item>
+    <item>
+      <title>Cedar Valley College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>3030 N. Dallas Ave., Lancaster, TX 75241::6::0::1::0</description>
+      <guid isPermaLink="false">ab3d8994c4659e66</guid>
+      <pubDate>Sat, 16 Jan 2010 15:58:04 GMT</pubDate>
+      <georss:point>32.62623180270993 -96.76674839217378</georss:point>
+    </item>
+    <item>
+      <title>Wilmer Hutchins High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1231 N JJ Lemon St, Dallas, TX 75141::4::0::1::0</description>
+      <guid isPermaLink="false">2667abe8e4359049</guid>
+      <pubDate>Sat, 16 Jan 2010 15:58:45 GMT</pubDate>
+      <georss:point>32.65464358906699 -96.72851982049059</georss:point>
+    </item>
+    <item>
+      <title>Rick Oden Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1010 W. Miller Road, Garland, TX 75041::13::1::1::0</description>
+      <guid isPermaLink="false">7e5b86b9cba0a0d9</guid>
+      <pubDate>Sat, 16 Jan 2010 15:59:48 GMT</pubDate>
+      <georss:point>32.89019598806837 -96.64162232009892</georss:point>
+    </item>
+    <item>
+      <title>East Gross Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>344 E Gross St, Mesquite, TX 75149::6::0::1::0</description>
+      <guid isPermaLink="false">2c07d066b0190554</guid>
+      <pubDate>Sat, 16 Jan 2010 16:00:29 GMT</pubDate>
+      <georss:point>32.763585618072675 -96.59456319874192</georss:point>
+    </item>
+    <item>
+      <title>Virgin Irwin Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>4313 Shepherd Ln, Mesquite, TX 75180::4::1::1::0</description>
+      <guid isPermaLink="false">c431f22f8d32af59</guid>
+      <pubDate>Sat, 16 Jan 2010 16:01:02 GMT</pubDate>
+      <georss:point>32.71041788005186 -96.61276913226317</georss:point>
+    </item>
+    <item>
+      <title>Turner High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1951 Cox St., Carrollton, TX 75006::4::0::1::0</description>
+      <guid isPermaLink="false">41b71069209f572f</guid>
+      <pubDate>Sat, 16 Jan 2010 16:01:43 GMT</pubDate>
+      <georss:point>32.94503007223485 -96.8921014691386</georss:point>
+    </item>
+    <item>
+      <title>Huffhines Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1601 Syracuse, Richardson, TX 75081::10::1::1::0</description>
+      <guid isPermaLink="false">8225a42b028a8341</guid>
+      <pubDate>Sat, 16 Jan 2010 16:02:24 GMT</pubDate>
+      <georss:point>32.95052621233671 -96.69502558399199</georss:point>
+    </item>
+    <item>
+      <title>Ranchview High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>8401 East Valley Ranch Pkwy, Irving, TX 75063::3::0::1::0</description>
+      <guid isPermaLink="false">5640324119be2592</guid>
+      <pubDate>Sat, 16 Jan 2010 16:03:11 GMT</pubDate>
+      <georss:point>32.91755434895407 -96.94646669162978</georss:point>
+    </item>
+    <item>
+      <title>Cimarron Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>201 Red River Trail, Irving, TX 75063::2::0::1::0</description>
+      <guid isPermaLink="false">b24ef3a9b4c8a99d</guid>
+      <pubDate>Sat, 16 Jan 2010 16:04:11 GMT</pubDate>
+      <georss:point>32.931503009878426 -96.94595521593851</georss:point>
+    </item>
+    <item>
+      <title>Duncanville High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>7225 W. Wheatland Rd., Dallas, TX 75249::4::0::1::0</description>
+      <guid isPermaLink="false">c421f809af2d0975</guid>
+      <pubDate>Sat, 16 Jan 2010 16:04:47 GMT</pubDate>
+      <georss:point>32.64808573866085 -96.94996426718143</georss:point>
+    </item>
+    <item>
+      <title>University of Texas</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>800 W. Campbell Road, Richardson, TX 75080::6::1::1::0</description>
+      <guid isPermaLink="false">3d63bcd34e4b4599</guid>
+      <pubDate>Sat, 16 Jan 2010 16:05:55 GMT</pubDate>
+      <georss:point>32.986152298274426 -96.74669292855839</georss:point>
+    </item>
+    <item>
+      <title>Corn Valley Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>3171 Corn Valley Rd, Grand Praire, TX 75052::8::0::1::0</description>
+      <guid isPermaLink="false">a7f57b3fff93d26d</guid>
+      <pubDate>Sat, 16 Jan 2010 16:07:43 GMT</pubDate>
+      <georss:point>32.694062315323954 -97.0040582516595</georss:point>
+    </item>
+    <item>
+      <title>Grand Prairie High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>101 High School Dr, Grand Prairie, TX 75050::5::1::1::0</description>
+      <guid isPermaLink="false">47a840b2e174165e</guid>
+      <pubDate>Sat, 16 Jan 2010 16:08:20 GMT</pubDate>
+      <georss:point>32.75450190468776 -97.00426753407663</georss:point>
+    </item>
+    <item>
+      <title>DeSoto Jr. High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>800 N. Westmoreland , DeSoto, TX 75115::4::1::1::0</description>
+      <guid isPermaLink="false">e903950e6bfc6fa3</guid>
+      <pubDate>Sat, 16 Jan 2010 16:10:47 GMT</pubDate>
+      <georss:point>32.60103138207795 -96.87341695106505</georss:point>
+    </item>
+    <item>
+      <title>Trinity Christian School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1231 E Pleasant Run Rd, Cedar Hill, TX 75104::4::0::1::0</description>
+      <guid isPermaLink="false">f4bd07c31551d0db</guid>
+      <pubDate>Sat, 16 Jan 2010 16:09:41 GMT</pubDate>
+      <georss:point>32.602070309956716 -96.91449349206533</georss:point>
+    </item>
+    <item>
+      <title>DeSoto High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>600 Eagle Drive, DeSoto, TX 75115::5::0::1::0</description>
+      <guid isPermaLink="false">19df21a32a5cf0e5</guid>
+      <pubDate>Sat, 16 Jan 2010 16:10:35 GMT</pubDate>
+      <georss:point>32.58070503569147 -96.86790605124281</georss:point>
+    </item>
+    <item>
+      <title>Canyon Creek Christian Academy</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2800 Custer Pkwy, Richardson, TX 75080::2::1::1::0</description>
+      <guid isPermaLink="false">ca6fd8eaf946c164</guid>
+      <pubDate>Sun, 17 Jan 2010 18:32:05 GMT</pubDate>
+      <georss:point>32.99691373712889 -96.73107160055548</georss:point>
+    </item>
+    <item>
+      <title>Thomas Elementary School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2906 Scott Mill Rd., Carrollton, TX 75007::4::1::1::0</description>
+      <guid isPermaLink="false">b7a261694ad84b7e</guid>
+      <pubDate>Sun, 17 Jan 2010 18:32:37 GMT</pubDate>
+      <georss:point>32.99326629346119 -96.88089632506182</georss:point>
+    </item>
+    <item>
+      <title>Crawford Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>401 Straus Road, Cedar Hill, TX 75104::2::0::1::0</description>
+      <guid isPermaLink="false">1af489ddb4d22e20</guid>
+      <pubDate>Sun, 17 Jan 2010 18:40:25 GMT</pubDate>
+      <georss:point>32.59557223389837 -96.9554666309661</georss:point>
+    </item>
+    <item>
+      <title>Herfurth Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>4600 Centennial, Rowlett, TX 75088::4::0::1::0</description>
+      <guid isPermaLink="false">63e73b333c55353a</guid>
+      <pubDate>Sun, 17 Jan 2010 18:41:05 GMT</pubDate>
+      <georss:point>32.90021773935216 -96.55897439881136</georss:point>
+    </item>
+    <item>
+      <title>Creekview High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>3201 Old Denton Rd., Carrollton, TX 75007::6::0::1::0</description>
+      <guid isPermaLink="false">b6fcf47ad1359c34</guid>
+      <pubDate>Sun, 17 Jan 2010 18:41:55 GMT</pubDate>
+      <georss:point>33.00201416643165 -96.91512165480043</georss:point>
+    </item>
+    <item>
+      <title>Sam Houston High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2000 Sam Houston Dr, Arlington, TX 76017::8::1::1::0</description>
+      <guid isPermaLink="false">333a84d3ab630a50</guid>
+      <pubDate>Sun, 17 Jan 2010 18:46:06 GMT</pubDate>
+      <georss:point>32.702575 -97.075986</georss:point>
+    </item>
+    <item>
+      <title>Hebron High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>4207 Plano Parkway, Carrollton, TX 75010::8::1::1::0</description>
+      <guid isPermaLink="false">d657bb27075e7a00</guid>
+      <pubDate>Sun, 17 Jan 2010 18:55:45 GMT</pubDate>
+      <georss:point>33.034991689912225 -96.86006202844999</georss:point>
+    </item>
+    <item>
+      <title>Coppell High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>185 West Parkway Blvd, Coppell, TX 75019::12::0::1::0</description>
+      <guid isPermaLink="false">5e24292b2ab766cc</guid>
+      <pubDate>Sun, 17 Jan 2010 18:56:23 GMT</pubDate>
+      <georss:point>32.97742232287834 -97.0013258726998</georss:point>
+    </item>
+    <item>
+      <title>Red Oak High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>154 Louise Ritter Blvd., Red Oak, TX 75154::8::0::1::0</description>
+      <guid isPermaLink="false">7d5c392c13c85b6</guid>
+      <pubDate>Sun, 17 Jan 2010 18:57:06 GMT</pubDate>
+      <georss:point>32.49726499755579 -96.8000925667954</georss:point>
+    </item>
+    <item>
+      <title>Collin County Community College</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2800 E. Spring Creek Pkwy., Plano, TX 75074::13::1::1::0</description>
+      <guid isPermaLink="false">cf2ab1c1ada9ebdc</guid>
+      <pubDate>Sun, 17 Jan 2010 18:57:58 GMT</pubDate>
+      <georss:point>33.05221811684444 -96.67845564256663</georss:point>
+    </item>
+    <item>
+      <title>James Bowie High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2101 Highbank, Arlington, TX 76108::8::0::1::0</description>
+      <guid isPermaLink="false">54780c22820e89d7</guid>
+      <pubDate>Sun, 17 Jan 2010 18:58:37 GMT</pubDate>
+      <georss:point>32.66371899381831 -97.07370240013893</georss:point>
+    </item>
+    <item>
+      <title>University of Texas at Arlington</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>905 West Second Street, Arlington, TX 76019::10::1::1::0</description>
+      <guid isPermaLink="false">c8e0831c4d7f4c6d</guid>
+      <pubDate>Sun, 17 Jan 2010 18:59:51 GMT</pubDate>
+      <georss:point>32.73193230309473 -97.1198830029906</georss:point>
+    </item>
+    <item>
+      <title>Heritage Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>201 Ball Street, Grapevine, TX 76051::2::0::1::0</description>
+      <guid isPermaLink="false">a00839f98e91472f</guid>
+      <pubDate>Sun, 17 Jan 2010 19:00:35 GMT</pubDate>
+      <georss:point>32.93976056362312 -97.08375433862306</georss:point>
+    </item>
+    <item>
+      <title>Arlington University</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>500 W. Mayfield Rd., Arlington, TX 76014::20::1::1::0</description>
+      <guid isPermaLink="false">45c715ebbe272d1d</guid>
+      <pubDate>Sun, 17 Jan 2010 19:01:25 GMT</pubDate>
+      <georss:point>32.69000898591392 -97.11234210185245</georss:point>
+    </item>
+    <item>
+      <title>High Point Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>421 W Spring Creek Pkwy, Plano, TX 75023::22::1::1::0</description>
+      <guid isPermaLink="false">f8a98020bba09289</guid>
+      <pubDate>Sun, 17 Jan 2010 19:02:59 GMT</pubDate>
+      <georss:point>33.058168647749554 -96.70034833862308</georss:point>
+    </item>
+    <item>
+      <title>Grapevine High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>3223 Mustang Drive, Grapevine , TX 76051::12::0::1::0</description>
+      <guid isPermaLink="false">7114eb6966ec4182</guid>
+      <pubDate>Sun, 17 Jan 2010 19:15:30 GMT</pubDate>
+      <georss:point>32.913101406474105 -97.11812450926203</georss:point>
+    </item>
+    <item>
+      <title>Wagon Wheel Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>950 Creekview Dr., Coppell, TX 75019::8::1::1::0</description>
+      <guid isPermaLink="false">4bedb68182d5abfb</guid>
+      <pubDate>Sun, 17 Jan 2010 19:16:43 GMT</pubDate>
+      <georss:point>32.96196417280742 -97.02107233002471</georss:point>
+    </item>
+    <item>
+      <title>Wylie High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2550 W FM 544, Wylie, TX 75098::8::0::1::0</description>
+      <guid isPermaLink="false">8fee682e898900bf</guid>
+      <pubDate>Sun, 17 Jan 2010 19:17:25 GMT</pubDate>
+      <georss:point>33.006022583403464 -96.56955501586907</georss:point>
+    </item>
+    <item>
+      <title>Arlington Seguin</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>7001 Silo Rd, Arlington, TX 76002::8::0::1::0</description>
+      <guid isPermaLink="false">678466870ffffdc4</guid>
+      <pubDate>Sun, 17 Jan 2010 19:18:32 GMT</pubDate>
+      <georss:point>32.62989631979862 -97.09990203704831</georss:point>
+    </item>
+    <item>
+      <title>Dove Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1741 Hood Lane, Grapevine, TX 76051::6::0::1::0</description>
+      <guid isPermaLink="false">6dfd231d6416f81e</guid>
+      <pubDate>Sun, 17 Jan 2010 19:19:00 GMT</pubDate>
+      <georss:point>32.95624585490168 -97.09812903075789</georss:point>
+    </item>
+    <item>
+      <title>Brairhill Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>Sandberg Pl, Lewisville, TX 75077::2::0::1::0</description>
+      <guid isPermaLink="false">31543066e544e9b2</guid>
+      <pubDate>Sun, 17 Jan 2010 19:19:31 GMT</pubDate>
+      <georss:point>33.07733590143537 -97.06459548585667</georss:point>
+    </item>
+    <item>
+      <title>Colleyville City Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>5205 Bransford Road, Colleyville, TX 76034::6::1::1::0</description>
+      <guid isPermaLink="false">dbabfd33a913c88f</guid>
+      <pubDate>Sun, 17 Jan 2010 19:20:01 GMT</pubDate>
+      <georss:point>32.88496953336404 -97.15971886109923</georss:point>
+    </item>
+    <item>
+      <title>Bell High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1601 Brown Trl, Hurst, TX 76054::9::0::1::0</description>
+      <guid isPermaLink="false">f216c45ea65b69e3</guid>
+      <pubDate>Sun, 17 Jan 2010 19:20:59 GMT</pubDate>
+      <georss:point>32.84294454880465 -97.16258347850413</georss:point>
+    </item>
+    <item>
+      <title>Central Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>700 Mary Drive, Hurst, TX 76053::10::1::1::0</description>
+      <guid isPermaLink="false">96c1c6434d09234a</guid>
+      <pubDate>Sun, 17 Jan 2010 19:22:20 GMT</pubDate>
+      <georss:point>32.82129927792602 -97.17653406878662</georss:point>
+    </item>
+    <item>
+      <title>Rockwall Heath High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>801 Laurence Dr., Rockwall, TX 75032::8::1::1::0</description>
+      <guid isPermaLink="false">19288d27823ff395</guid>
+      <pubDate>Sun, 17 Jan 2010 19:22:59 GMT</pubDate>
+      <georss:point>32.846233599942316 -96.47457713561249</georss:point>
+    </item>
+    <item>
+      <title>Ford Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>632 Park Place, Allen, TX 75013::4::1::1::0</description>
+      <guid isPermaLink="false">6bcc71829415df06</guid>
+      <pubDate>Sun, 17 Jan 2010 19:23:26 GMT</pubDate>
+      <georss:point>33.09030892582708 -96.65798209360122</georss:point>
+    </item>
+    <item>
+      <title>Crandall High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>13385 FM 3039, Crandall, TX 75114::6::1::1::0</description>
+      <guid isPermaLink="false">dec8bd948ae2ce50</guid>
+      <pubDate>Sun, 17 Jan 2010 19:24:24 GMT</pubDate>
+      <georss:point>32.61562010703429 -96.46340386046603</georss:point>
+    </item>
+    <item>
+      <title>Leonard Johns Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1850 Timber Creek Road, Flower Mound, TX 75028::4::0::1::0</description>
+      <guid isPermaLink="false">bdb68d31ea156593</guid>
+      <pubDate>Sun, 17 Jan 2010 19:25:03 GMT</pubDate>
+      <georss:point>33.044288767757976 -97.05548672883606</georss:point>
+    </item>
+    <item>
+      <title>James Martin High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>4501 West Pleasent Ridge, Arlington, TX 76016::8::1::1::0</description>
+      <guid isPermaLink="false">38070c4895350fb0</guid>
+      <pubDate>Sun, 17 Jan 2010 19:25:32 GMT</pubDate>
+      <georss:point>32.68497909194696 -97.1788574894104</georss:point>
+    </item>
+    <item>
+      <title>Bicentennial Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>450 W. Southlake Blvd., Southlake, TX 76092::13::1::1::0</description>
+      <guid isPermaLink="false">3ec66de4fa602f10</guid>
+      <pubDate>Sun, 17 Jan 2010 19:26:05 GMT</pubDate>
+      <georss:point>32.94269200751112 -97.15348263754276</georss:point>
+    </item>
+    <item>
+      <title>Flower Mound High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>3359 Old Settlers Rd., Flower Mound, TX 75022::12::0::1::0</description>
+      <guid isPermaLink="false">1769da4b4af467d7</guid>
+      <pubDate>Sun, 17 Jan 2010 19:26:37 GMT</pubDate>
+      <georss:point>33.03074212972483 -97.08126693519591</georss:point>
+    </item>
+    <item>
+      <title>Allen High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>300 Rivercrest, Allen, TX 75002::12::1::1::0</description>
+      <guid isPermaLink="false">102acd91513bc100</guid>
+      <pubDate>Sun, 17 Jan 2010 19:29:33 GMT</pubDate>
+      <georss:point>33.11182283050704 -96.6621256739578</georss:point>
+    </item>
+    <item>
+      <title>Rockwall High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>901 yellowjacket Lane, Rockwall, TX 75087::2::0::1::0</description>
+      <guid isPermaLink="false">aec38e4eb031c38f</guid>
+      <pubDate>Sun, 17 Jan 2010 19:30:02 GMT</pubDate>
+      <georss:point>32.90302242343955 -96.45952982670587</georss:point>
+    </item>
+    <item>
+      <title>Midlothian Sports Complex</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>700 George Hopper Rd., Midlothian, TX 76065::8::0::1::0</description>
+      <guid isPermaLink="false">b931a64994c747c</guid>
+      <pubDate>Sun, 17 Jan 2010 19:30:48 GMT</pubDate>
+      <georss:point>32.47244617490881 -96.98600524271398</georss:point>
+    </item>
+    <item>
+      <title>Frisco High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>6401 Parkwood Dr., Frisco, TX 75034::6::0::1::0</description>
+      <guid isPermaLink="false">eafe37a645dfce7a</guid>
+      <pubDate>Sun, 17 Jan 2010 19:31:19 GMT</pubDate>
+      <georss:point>33.128623717369145 -96.82099394113925</georss:point>
+    </item>
+    <item>
+      <title>Carroll Senior High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1501 Southlake Blvd, Southlake, TX 76092::8::0::1::0</description>
+      <guid isPermaLink="false">164b55c67a9d848a</guid>
+      <pubDate>Sun, 17 Jan 2010 19:31:48 GMT</pubDate>
+      <georss:point>32.939283623840005 -97.17336599999999</georss:point>
+    </item>
+    <item>
+      <title>Midlothian High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>925 S. Ninth Street, Midlothian, TX 76065::4::0::1::0</description>
+      <guid isPermaLink="false">f56387eec6f7bee5</guid>
+      <pubDate>Sun, 17 Jan 2010 19:32:17 GMT</pubDate>
+      <georss:point>32.47297749930981 -96.99493528241731</georss:point>
+    </item>
+    <item>
+      <title>Marcus High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>5694 Eastglen Dr., Flower Mound, TX 75028::12::0::1::0</description>
+      <guid isPermaLink="false">56614c63c14a50b8</guid>
+      <pubDate>Sun, 17 Jan 2010 19:32:41 GMT</pubDate>
+      <georss:point>33.06318745053454 -97.06400482573878</georss:point>
+    </item>
+    <item>
+      <title>Richland Tennis Center</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>7111 NE Loop 820, North Richland Hills, TX 76180::15::1::1::0</description>
+      <guid isPermaLink="false">4e16fa36aed159f1</guid>
+      <pubDate>Tue, 19 Jan 2010 12:58:58 GMT</pubDate>
+      <georss:point>32.840412517620344 -97.23011244180293</georss:point>
+    </item>
+    <item>
+      <title>Eastern Hills High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>5701 Shelton Street, Fort Worth, TX 76112::8::0::1::0</description>
+      <guid isPermaLink="false">ed727d14cc4161bf</guid>
+      <pubDate>Tue, 19 Jan 2010 12:59:48 GMT</pubDate>
+      <georss:point>32.749264770171706 -97.23023445103462</georss:point>
+    </item>
+    <item>
+      <title>Fossil Ridge High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>4101 Thompson Road, Keller, TX 76248::6::0::1::0</description>
+      <guid isPermaLink="false">b400df2f3b48b56e</guid>
+      <pubDate>Tue, 19 Jan 2010 13:01:04 GMT</pubDate>
+      <georss:point>32.892513447774306 -97.29696181549826</georss:point>
+    </item>
+    <item>
+      <title>Farmersville High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>499 HWY 78 N, Farmersville, TX 75442::4::0::1::0</description>
+      <guid isPermaLink="false">8b78ab26726abf4d</guid>
+      <pubDate>Tue, 19 Jan 2010 13:01:44 GMT</pubDate>
+      <georss:point>33.17022334148563 -96.37144804791927</georss:point>
+    </item>
+    <item>
+      <title>Kaufman High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>3205 S Houston St., Kaufman, TX 75142::8::0::1::0</description>
+      <guid isPermaLink="false">18ee1dacb80be65e</guid>
+      <pubDate>Tue, 19 Jan 2010 13:02:18 GMT</pubDate>
+      <georss:point>32.56446401956039 -96.31431627710725</georss:point>
+    </item>
+    <item>
+      <title>Rosemont Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1600 W. Seminary, Fort Worth, TX 76115:14::1::1::0</description>
+      <guid isPermaLink="false">131502d471ddb2a2</guid>
+      <pubDate>Tue, 19 Jan 2010 13:02:57 GMT</pubDate>
+      <georss:point>32.68538913139611 -97.34322917790985</georss:point>
+    </item>
+    <item>
+      <title>Paschal High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>3001 Forest Park Blvd., Fort Worth, TX 76110::5::0::1::0</description>
+      <guid isPermaLink="false">96fea061398ed21f</guid>
+      <pubDate>Tue, 19 Jan 2010 13:03:27 GMT</pubDate>
+      <georss:point>32.70764625357688 -97.34966665872196</georss:point>
+    </item>
+    <item>
+      <title>Ennis High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2104 West Ennis Ave., Ennis, TX 75119::5::0::1::0</description>
+      <guid isPermaLink="false">736f75f5ccb338e4</guid>
+      <pubDate>Tue, 19 Jan 2010 13:03:57 GMT</pubDate>
+      <georss:point>32.321755317722726 -96.64870105158996</georss:point>
+    </item>
+    <item>
+      <title>South Hills High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>6101 McCart Ave, Fort Worth, TX 76133::4::0::1::0</description>
+      <guid isPermaLink="false">dfc09f95981aa95a</guid>
+      <pubDate>Tue, 19 Jan 2010 13:04:26 GMT</pubDate>
+      <georss:point>32.65589982246953 -97.35925296560668</georss:point>
+    </item>
+    <item>
+      <title>Texas Christian University</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>3609 Bellaire Drive North, Fort Worth, TX 76109::22::1::1::0</description>
+      <guid isPermaLink="false">85929134a01302dd</guid>
+      <pubDate>Tue, 19 Jan 2010 13:05:09 GMT</pubDate>
+      <georss:point>32.70490379318164 -97.37097920041657</georss:point>
+    </item>
+    <item>
+      <title>University of North Texas</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2024 W Highland St, Denton, TX 76201::6::1::1::0</description>
+      <guid isPermaLink="false">5722c0637c90126f</guid>
+      <pubDate>Tue, 19 Jan 2010 13:07:06 GMT</pubDate>
+      <georss:point>33.20993909292751 -97.15428829193115</georss:point>
+    </item>
+    <item>
+      <title>Denton High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1007 Fulton Rd., Denton, TX 76201::6::1::1::0</description>
+      <guid isPermaLink="false">3f2780e61907a1da</guid>
+      <pubDate>Tue, 19 Jan 2010 13:07:45 GMT</pubDate>
+      <georss:point>33.2229736723439 -97.14134005487818</georss:point>
+    </item>
+    <item>
+      <title>Denton Ryan High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>5101 E. McKinney, Denton, TX 76208::6::0::1::0</description>
+      <guid isPermaLink="false">b45ce912518db67a</guid>
+      <pubDate>Tue, 19 Jan 2010 13:08:13 GMT</pubDate>
+      <georss:point>33.212028030570785 -97.07475842789455</georss:point>
+    </item>
+    <item>
+      <title>Alvarado High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1301 S Parkway Dr, Alvarado, TX 76009::8::1::1::0</description>
+      <guid isPermaLink="false">553ad32dd5db9693</guid>
+      <pubDate>Tue, 19 Jan 2010 13:09:09 GMT</pubDate>
+      <georss:point>32.38999114510937 -97.20466638490296</georss:point>
+    </item>
+    <item>
+      <title>Crowley High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>1005 W Main, Crowley, TX 76036::8::0::1::0</description>
+      <guid isPermaLink="false">dd8faf07d15a7f1c</guid>
+      <pubDate>Tue, 19 Jan 2010 13:09:37 GMT</pubDate>
+      <georss:point>32.57731981337714 -97.37595573016358</georss:point>
+    </item>
+    <item>
+      <title>Burleson High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>100 Elk Drive., Burleson, TX 76028::12::0::1::0</description>
+      <guid isPermaLink="false">c6c5daad95a5c308</guid>
+      <pubDate>Tue, 19 Jan 2010 13:10:09 GMT</pubDate>
+      <georss:point>32.52719309760021 -97.34531414617157</georss:point>
+    </item>
+    <item>
+      <title>North Lakes Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>2005 W. Windsor Dr., Denton, TX 76201::9::0::1::0</description>
+      <guid isPermaLink="false">b02cb84f07cd2d9c</guid>
+      <pubDate>Tue, 19 Jan 2010 13:11:08 GMT</pubDate>
+      <georss:point>33.238376621058705 -97.15496946096039</georss:point>
+    </item>
+    <item>
+      <title>Krum High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>811 E. McCart, Krum, TX 76249::4::0::1::0</description>
+      <guid isPermaLink="false">c032dd3332ea021b</guid>
+      <pubDate>Tue, 19 Jan 2010 13:11:40 GMT</pubDate>
+      <georss:point>33.25973765574405 -97.2273190476073</georss:point>
+    </item>
+    <item>
+      <title>Monterrey Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!1050</link>
+      <description>3601 Pipeline Rd., Euless, TX 76039::12::1::1::0</description>
+      <guid isPermaLink="false">a46a64acf6faf75a</guid>
+      <pubDate>Sun, 17 Jan 2010 18:54:11 GMT</pubDate>
+      <georss:point>32.821801614124 -97.14433271429448</georss:point>
+    </item>
+  </channel>
+</rss>

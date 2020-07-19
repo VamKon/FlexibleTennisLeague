@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="FlexibleTennisLeague.Master.cs"
+    Inherits="FlexibleTennisLeague.Dallas.FlexibleTennisLeague" %>
+
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="/App_Themes/FlexibleTennisLeague/Tennis.css" rel="stylesheet" type="text/css" />
+
+    <script language="javascript" type="text/javascript" src="/Resources/JavaScript/Script.js"></script>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+    <telerik:RadAjaxManager ID="RadAjaxManager1" runat="server">
+    </telerik:RadAjaxManager>
+    <div class="header">
+        <div id="headerLeft">
+            <b>Dallas Flexible Tennis League</b>
+        </div>
+        <div id="headerRight">
+            <asp:LoginName ID="LoginName1" runat="server" />
+            &nbsp;|&nbsp;<a href="/dallas/">Home</a>&nbsp;|&nbsp;
+            <asp:LoginStatus ID="LoginStatus1" runat="server" LogoutPageUrl="/dallas/loginpage.aspx"
+                LogoutAction="Redirect" />
+            &nbsp;|&nbsp;<a href="/dallas/contactus.aspx">Contact</a>
+        </div>
+    </div>
+    <div class="menuContainer">
+        <div class="menuButtonBig">
+            <a href="/dallas/howitworks.aspx">HOW IT WORKS</a></div>
+        <div class="menuButtonBig">
+            <a href="/dallas/pageoffame.aspx">DALLAS PAGE OF FAME</a></div>
+        <div class="menuButton">
+            <a href="/dallas/users/profile.aspx">MY LEAGUE</a></div>
+        <div class="menuButton">
+            <a href="http://www.blog.flexibletennisleague.com">BLOG</a></div>
+        <div class="menuButtonEnd">
+            <a href="/dallas/tenniscourts.aspx">DALLAS TENNIS COURTS</a></div>
+    </div>
+    <div class="innerPageBanner">
+        <a href="/dallas/">
+            <asp:Image ID="Image1" runat="server" ImageUrl="/dallas/resources/images/dallas-tennis-league.jpg" AlternateText="Dallas Tennis League"/></a>
+    </div>
+    <div style="height: 10px">
+    </div>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    <div class="greyContentFooter">
+    </div>
+     <p align="center">
+        Copyright © 2009 - 2010 <a href="http://www.flexibletennisleague.com/">Flexible Leagues LLC</a>. All rights reserved. | Follow Us on : <a href="http://www.facebook.com/pages/Dallas-TX/Dallas-Flexible-Tennis-League/10150103256115084">
+                Facebook <img src="/Resources/Images/Facebook.jpg" width="24" height="24"
+                    alt="Facebook" style="border: 0" align="middle"/></a> | <a href="http://twitter.com/flexibletennis">
+                Twitter <img src="/Resources/Images/Twitter.jpg" width="24" height="24"
+                    alt="Twitter" style="border: 0" align="middle"/></a> | <a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=tennislover60">
+                <img src="http://s7.addthis.com/static/btn/v2/lg-bookmark-en.gif" width="125" height="16"
+                    alt="Bookmark and Share" style="border: 0" /></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=tennislover60"></script>
+
+    </p>
+    </form>
+
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+
+    <script type="text/javascript">
+        try {
+            var pageTracker = _gat._getTracker("UA-10257470-1");
+            pageTracker._trackPageview();
+        } catch (err) { }</script>
+
+</body>
+</html>

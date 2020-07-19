@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:georss="http://www.georss.org/georss" version="2.0">
+  <channel>
+    <title>Houston</title>
+    <link>http://www.bing.com</link>
+    <description />
+    <item>
+      <title>Unversity of Houston</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>4800 Calhoun Rd., Houston, TX 77204::15::1::1::0</description>
+      <guid isPermaLink="false">a53a1bb0e53dc247</guid>
+      <pubDate>Sun, 27 Dec 2009 16:04:18 GMT</pubDate>
+      <georss:point>29.72753829089916 -95.3465313201599</georss:point>
+    </item>
+    <item>
+      <title>Cherryhurst Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>1700 Missouri, Houston, TX 77006::2::0::1::0</description>
+      <guid isPermaLink="false">b0367c8f13569f7f</guid>
+      <pubDate>Sun, 27 Dec 2009 16:05:27 GMT</pubDate>
+      <georss:point>29.744298207068652 -95.39832122949985</georss:point>
+    </item>
+    <item>
+      <title>Proctor Plaza Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>803 W Temple, Houston, TX 77009::1::1::1::0</description>
+      <guid isPermaLink="false">d1cd78663f68d737</guid>
+      <pubDate>Sun, 27 Dec 2009 16:06:12 GMT</pubDate>
+      <georss:point>29.793453903882124 -95.38126754959864</georss:point>
+    </item>
+    <item>
+      <title>Finnigan Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>4900 Providence, Houston, TX 77020::2::1::1::0</description>
+      <guid isPermaLink="false">d5dd301efabd03db</guid>
+      <pubDate>Sun, 27 Dec 2009 16:38:17 GMT</pubDate>
+      <georss:point>29.769224514503342 -95.32019071261976</georss:point>
+    </item>
+    <item>
+      <title>Montie Beach Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>915 Northwood, Houston, TX 77009::2::1::1::0</description>
+      <guid isPermaLink="false">85861cc16e69e630</guid>
+      <pubDate>Sun, 27 Dec 2009 16:39:09 GMT</pubDate>
+      <georss:point>29.799388997522 -95.37843178371429</georss:point>
+    </item>
+    <item>
+      <title>MacGregor Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>5225 Calhoun Rd., Houston, TX 77021::16::1::1::0</description>
+      <guid isPermaLink="false">f78b2d0a00d33e76</guid>
+      <pubDate>Sun, 27 Dec 2009 16:39:56 GMT</pubDate>
+      <georss:point>29.708472490847818 -95.33991017392731</georss:point>
+    </item>
+    <item>
+      <title>Memorial Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>1500 Memorial Loop Dr., Houston, TX 77007::18::1::1::0</description>
+      <guid isPermaLink="false">c6b20efbcf56634d</guid>
+      <pubDate>Sun, 27 Dec 2009 16:40:37 GMT</pubDate>
+      <georss:point>29.776119577131027 -95.4351967096988</georss:point>
+    </item>
+    <item>
+      <title>River Oaks Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>3600 Locke Lane, Houston, TX 77027::4::0::1::0</description>
+      <guid isPermaLink="false">6e0088a92ff29eb6</guid>
+      <pubDate>Sun, 27 Dec 2009 17:23:19 GMT</pubDate>
+      <georss:point>29.741813009316217 -95.43591834029769</georss:point>
+    </item>
+    <item>
+      <title>West University Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>4130 Byron, West University, TX 77005::2::1::1::0</description>
+      <guid isPermaLink="false">cce5e28f0208a382</guid>
+      <pubDate>Sun, 27 Dec 2009 17:29:56 GMT</pubDate>
+      <georss:point>29.712763694146737 -95.44435832771677</georss:point>
+    </item>
+    <item>
+      <title>Sunnyside Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>3502 Bellfort, Houston, TX 77051::2::1::1::0</description>
+      <guid isPermaLink="false">dfaa078ae5c09466</guid>
+      <pubDate>Sun, 27 Dec 2009 17:30:32 GMT</pubDate>
+      <georss:point>29.6687909759613 -95.3730835979004</georss:point>
+    </item>
+    <item>
+      <title>Linkwood Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>3699 Norris, Houston, TX 77025::2::1::1::0</description>
+      <guid isPermaLink="false">fb4ea4556032d41c</guid>
+      <pubDate>Sun, 27 Dec 2009 23:30:17 GMT</pubDate>
+      <georss:point>29.68705072684721 -95.43336098147586</georss:point>
+    </item>
+    <item>
+      <title>Feld Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>Ave. B and Bissonnett, Bellaire, TX 77401::2::1::1::0</description>
+      <guid isPermaLink="false">5f26a5b4d18a10ec</guid>
+      <pubDate>Sun, 27 Dec 2009 23:31:03 GMT</pubDate>
+      <georss:point>29.71188863072974 -95.45740463096621</georss:point>
+    </item>
+    <item>
+      <title>Tidwell Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>9720 Spaulding St, Houston, TX 77016::2::0::1::0</description>
+      <guid isPermaLink="false">1a6c925156eb7342</guid>
+      <pubDate>Sun, 27 Dec 2009 23:33:02 GMT</pubDate>
+      <georss:point>29.848465 -95.303271</georss:point>
+    </item>
+    <item>
+      <title>Trotter Family YMCA</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>1331 Augusta Dr., Houston, TX 77057::2::1::1::1</description>
+      <guid isPermaLink="false">c87f44e2ff0584d0</guid>
+      <pubDate>Sun, 27 Dec 2009 23:34:08 GMT</pubDate>
+      <georss:point>29.753160286175415 -95.48082674337769</georss:point>
+    </item>
+    <item>
+      <title>Melrose Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>10001 Canino, Houston, TX 77076::4::0::1::0</description>
+      <guid isPermaLink="false">d3c8994f033f8587</guid>
+      <pubDate>Sun, 27 Dec 2009 23:37:23 GMT</pubDate>
+      <georss:point>29.876888652992726 -95.37226334627451</georss:point>
+    </item>
+    <item>
+      <title>Meyerland Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>5151 Jason, Houston, TX 77096::2::1::1::0</description>
+      <guid isPermaLink="false">993b7a26ea5bd795</guid>
+      <pubDate>Sun, 27 Dec 2009 23:38:21 GMT</pubDate>
+      <georss:point>29.6822713408729 -95.4709177876968</georss:point>
+    </item>
+    <item>
+      <title>Briar Meadow Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>7703 Richmond Ave, Houston, TX 77063::2::1::1::0</description>
+      <guid isPermaLink="false">fac1b2cbac8c0d8d</guid>
+      <pubDate>Sun, 27 Dec 2009 23:39:08 GMT</pubDate>
+      <georss:point>29.73028145226626 -95.50435477050013</georss:point>
+    </item>
+    <item>
+      <title>Houston Sterling High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>11625 Martindale Rd, Houston, TX 77048::2::0::1::0</description>
+      <guid isPermaLink="false">214ef38efe54663d</guid>
+      <pubDate>Sun, 27 Dec 2009 23:40:06 GMT</pubDate>
+      <georss:point>29.635156548414585 -95.32172488095096</georss:point>
+    </item>
+    <item>
+      <title>Westland Family YMCA</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>10402 Fondren, Houston, TX 77096::2::1::1::1</description>
+      <guid isPermaLink="false">c92485ba235e1252</guid>
+      <pubDate>Sun, 27 Dec 2009 23:41:14 GMT</pubDate>
+      <georss:point>29.66923218943085 -95.510002348549</georss:point>
+    </item>
+    <item>
+      <title>North Forest High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>10727 Mesa Dr., Houston, TX 77078::2::0::1::0</description>
+      <guid isPermaLink="false">e926d48cd1eca40b</guid>
+      <pubDate>Sun, 27 Dec 2009 23:43:24 GMT</pubDate>
+      <georss:point>29.870532259103775 -95.26432851191714</georss:point>
+    </item>
+    <item>
+      <title>Spring Woods High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>2045 Gessner Road, Houston, TX 77080::6::0::1::0</description>
+      <guid isPermaLink="false">8f89be167ea104f4</guid>
+      <pubDate>Sun, 27 Dec 2009 23:45:35 GMT</pubDate>
+      <georss:point>29.811640069223337 -95.54802647793877</georss:point>
+    </item>
+    <item>
+      <title>Rice University</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>Rice Athletics, MS 548, PO Box 1892, Houston, TX 77251::6::1::1::0</description>
+      <guid isPermaLink="false">9d96493aac6921b9</guid>
+      <pubDate>Sun, 27 Dec 2009 23:48:40 GMT</pubDate>
+      <georss:point>29.714042734082348 -95.40298484265804</georss:point>
+    </item>
+    <item>
+      <title>Strawberry Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>1202 Parkside, Pasadena, TX 77502::15::1::1::0</description>
+      <guid isPermaLink="false">8718a1add0fbaeec</guid>
+      <pubDate>Sun, 27 Dec 2009 23:49:45 GMT</pubDate>
+      <georss:point>29.667931005974736 -95.19492338888551</georss:point>
+    </item>
+    <item>
+      <title>Lee LeClear Tennis Center</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>9506 S. Gessner, Houston, TX 77074::26::1::1::0</description>
+      <guid isPermaLink="false">57da440d7ff1b72f</guid>
+      <pubDate>Sun, 27 Dec 2009 23:51:12 GMT</pubDate>
+      <georss:point>29.678665 -95.530725</georss:point>
+    </item>
+    <item>
+      <title>Carverdale Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>9920 Porto Rico, Houston, TX 77041::2::1::1::0</description>
+      <guid isPermaLink="false">f1787e0f9e94363</guid>
+      <pubDate>Sun, 27 Dec 2009 23:52:13 GMT</pubDate>
+      <georss:point>29.847271 -95.538618</georss:point>
+    </item>
+    <item>
+      <title>Sam Rayburn High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>2121 Cherrybrook, Pasadena, TX 77502::4::1::1::0</description>
+      <guid isPermaLink="false">5b35c2ab7f43ee40</guid>
+      <pubDate>Sun, 27 Dec 2009 23:53:01 GMT</pubDate>
+      <georss:point>29.680039841801722 -95.18363805822753</georss:point>
+    </item>
+    <item>
+      <title>Houston Christian High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>2700 W Sam Houston Parkway N, Houston, TX 77043::6::0::1::0</description>
+      <guid isPermaLink="false">e8354aa7fff91920</guid>
+      <pubDate>Sun, 27 Dec 2009 23:54:07 GMT</pubDate>
+      <georss:point>29.819531 -95.561059</georss:point>
+    </item>
+    <item>
+      <title>J Frank Dobie High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>10220 Blackhawk Boulevard, Houston, TX 77089::7::0::1::0</description>
+      <guid isPermaLink="false">25414e31df3fa236</guid>
+      <pubDate>Sun, 27 Dec 2009 23:55:02 GMT</pubDate>
+      <georss:point>29.593433985192355 -95.24870803970333</georss:point>
+    </item>
+    <item>
+      <title>Nottingham Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>14205 Kimberley, Houston, TX 77079::2::1::1::0</description>
+      <guid isPermaLink="false">948d7b5b302335bd</guid>
+      <pubDate>Mon, 28 Dec 2009 00:21:38 GMT</pubDate>
+      <georss:point>29.77598725189715 -95.59497052645878</georss:point>
+    </item>
+    <item>
+      <title>Elsik High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>12601 High Star, Houston, TX 77072::6::0::1::0</description>
+      <guid isPermaLink="false">40f9dfa18d0d67cb</guid>
+      <pubDate>Mon, 28 Dec 2009 00:22:43 GMT</pubDate>
+      <georss:point>29.710641 -95.602433</georss:point>
+    </item>
+    <item>
+      <title>Jersey Village High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>7600 Solomon, Houston, TX 77040::6::0::1::0</description>
+      <guid isPermaLink="false">b67cc49e65777348</guid>
+      <pubDate>Mon, 28 Dec 2009 00:23:29 GMT</pubDate>
+      <georss:point>29.880836832374022 -95.55714231219485</georss:point>
+    </item>
+    <item>
+      <title>Alief Hastings High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>4410 Cook Rd, Houston, TX 77072::12::0::1::0</description>
+      <guid isPermaLink="false">f4d948da6c0a4f0c</guid>
+      <pubDate>Mon, 28 Dec 2009 00:25:07 GMT</pubDate>
+      <georss:point>29.711872425181973 -95.6002933809815</georss:point>
+    </item>
+    <item>
+      <title>Sagemont Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>11507 Hughes Rd, Houston, TX 77089::2::0::1::0</description>
+      <guid isPermaLink="false">2b8870c77cf0560f</guid>
+      <pubDate>Mon, 28 Dec 2009 00:25:55 GMT</pubDate>
+      <georss:point>29.599512 -95.216229</georss:point>
+    </item>
+    <item>
+      <title>Deer Park High School South</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>710 W. San Augustine, Deer Park, TX 77536::10::0::1::0</description>
+      <guid isPermaLink="false">91b8ae3d16dfaf73</guid>
+      <pubDate>Mon, 28 Dec 2009 00:33:41 GMT</pubDate>
+      <georss:point>29.689068 -95.130292</georss:point>
+    </item>
+    <item>
+      <title>Pearland High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>3775 S. Main, Pearland, TX 77581::6::1::1::0</description>
+      <guid isPermaLink="false">6b49c4408041e5c7</guid>
+      <pubDate>Mon, 28 Dec 2009 00:35:47 GMT</pubDate>
+      <georss:point>29.541054 -95.266714</georss:point>
+    </item>
+    <item>
+      <title>Glenda Dawson High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>4717 Bailey Rd., Pearland, TX 77584::8::0::1::0</description>
+      <guid isPermaLink="false">6ade0feaf121cc0c</guid>
+      <pubDate>Mon, 28 Dec 2009 00:38:06 GMT</pubDate>
+      <georss:point>29.531011 -95.294874</georss:point>
+    </item>
+    <item>
+      <title>Nimitz High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>2005 W W Thorne Drive, Houston, TX 77073::8::0::1::0</description>
+      <guid isPermaLink="false">925c5ff60df1331c</guid>
+      <pubDate>Mon, 28 Dec 2009 00:41:20 GMT</pubDate>
+      <georss:point>30.004505 -95.393907</georss:point>
+    </item>
+    <item>
+      <title>Clear Brook High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>4607 FM 2351, Friendswood, TX 77546::10::0::1::0</description>
+      <guid isPermaLink="false">57236367c714470d</guid>
+      <pubDate>Mon, 28 Dec 2009 00:42:16 GMT</pubDate>
+      <georss:point>29.548348671422637 -95.18907347885135</georss:point>
+    </item>
+    <item>
+      <title>North Harris County YMCA</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>17125 Ella Blvd., Houston, TX 77090::4::1::1::0</description>
+      <guid isPermaLink="false">f5b0bdac25a5d65c</guid>
+      <pubDate>Mon, 28 Dec 2009 00:43:45 GMT</pubDate>
+      <georss:point>30.015699 -95.452688</georss:point>
+    </item>
+    <item>
+      <title>Kenneth Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>16130 Seahorse, Houston, TX 77062::4::0::1::0</description>
+      <guid isPermaLink="false">123ea00e00cf1d75</guid>
+      <pubDate>Mon, 28 Dec 2009 14:19:31 GMT</pubDate>
+      <georss:point>29.572127 -95.11408</georss:point>
+    </item>
+    <item>
+      <title>Lawrence Elkins High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>7007 Knights Court, Missouri City, TX 77459::8::0::1::0</description>
+      <guid isPermaLink="false">ed8b52f8ba7bb68e</guid>
+      <pubDate>Mon, 28 Dec 2009 14:20:08 GMT</pubDate>
+      <georss:point>29.545134269625116 -95.5595714222984</georss:point>
+    </item>
+    <item>
+      <title>Sugarland Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>321 7th St., Sugar Land, TX 77478::4::1::1::0</description>
+      <guid isPermaLink="false">f6e23d5742d3a12d</guid>
+      <pubDate>Mon, 28 Dec 2009 14:21:02 GMT</pubDate>
+      <georss:point>29.6303270359888 -95.62900277909847</georss:point>
+    </item>
+    <item>
+      <title>Kempner High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>14777 Voss Road, Sugar Land, TX 77478::8::0::1::0</description>
+      <guid isPermaLink="false">8e0f72b34c00cccd</guid>
+      <pubDate>Mon, 28 Dec 2009 14:21:43 GMT</pubDate>
+      <georss:point>29.64382928210331 -95.64347345501704</georss:point>
+    </item>
+    <item>
+      <title>First Colony Middle School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>3225 Austin Parkway, Sugar Land, TX 77479::4::0::1::0</description>
+      <guid isPermaLink="false">31f9c17a8ecaa613</guid>
+      <pubDate>Mon, 28 Dec 2009 14:22:18 GMT</pubDate>
+      <georss:point>29.574650579387913 -95.60233244145587</georss:point>
+    </item>
+    <item>
+      <title>Spring High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>19428 I-45 North, Spring, TX 77373::4::0::1::0</description>
+      <guid isPermaLink="false">224a27a1095d446d</guid>
+      <pubDate>Mon, 28 Dec 2009 14:23:06 GMT</pubDate>
+      <georss:point>30.055073271793667 -95.42927152049088</georss:point>
+    </item>
+    <item>
+      <title>Clear Lake Recreation Center</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>16022 Diana Lane, Houston, TX 77062::20::1::1::0</description>
+      <guid isPermaLink="false">d01995c5f531997d</guid>
+      <pubDate>Mon, 28 Dec 2009 14:26:24 GMT</pubDate>
+      <georss:point>29.560172823043075 -95.12072956610109</georss:point>
+    </item>
+    <item>
+      <title>Crosby High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>14213 F.M. 2100, Crosby, TX 77532::4::0::1::0</description>
+      <guid isPermaLink="false">eb9756937d34044a</guid>
+      <pubDate>Mon, 28 Dec 2009 14:27:24 GMT</pubDate>
+      <georss:point>29.89197 -95.063498</georss:point>
+    </item>
+    <item>
+      <title>Langham Creek YMCA</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>16725 Longenbaugh, Houston, TX 77095::2::1::1::0</description>
+      <guid isPermaLink="false">ca54d89dfa624241</guid>
+      <pubDate>Mon, 28 Dec 2009 14:27:59 GMT</pubDate>
+      <georss:point>29.899631975567096 -95.66670599272913</georss:point>
+    </item>
+    <item>
+      <title>Clements High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>4200 Elkins Dr., Sugar Land, TX 77479::8::0::1::0</description>
+      <guid isPermaLink="false">bf1f6fc39db4fea7</guid>
+      <pubDate>Mon, 28 Dec 2009 14:28:54 GMT</pubDate>
+      <georss:point>29.57315685109672 -95.63408796826161</georss:point>
+    </item>
+    <item>
+      <title>Mayde Creek Junior High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>2700 Greenhouse Rd, Houston, TX 77084::4::0::1::0</description>
+      <guid isPermaLink="false">37c62223e017d17d</guid>
+      <pubDate>Mon, 28 Dec 2009 14:29:47 GMT</pubDate>
+      <georss:point>29.807619387598862 -95.70148639350134</georss:point>
+    </item>
+    <item>
+      <title>Ross Sterling High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>300 W. Baker Rd., Baytown, TX 77520::8::0::1::0</description>
+      <guid isPermaLink="false">4f8375d09d7eeb7c</guid>
+      <pubDate>Tue, 29 Dec 2009 14:18:03 GMT</pubDate>
+      <georss:point>29.768878 -95.006048</georss:point>
+    </item>
+    <item>
+      <title>Taylor High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>20700 Kingsland Blvd., Katy, TX 77450::9::1::1::0</description>
+      <guid isPermaLink="false">daf53828f4064fdf</guid>
+      <pubDate>Tue, 29 Dec 2009 14:18:53 GMT</pubDate>
+      <georss:point>29.776418714840588 -95.72877892457586</georss:point>
+    </item>
+    <item>
+      <title>Kingwood High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>2701 Kingwood Drive, Kingwood, TX 77339::8::0::1::0</description>
+      <guid isPermaLink="false">1a0e3826746bc9d3</guid>
+      <pubDate>Tue, 29 Dec 2009 14:19:26 GMT</pubDate>
+      <georss:point>30.045362468184315 -95.19242139119342</georss:point>
+    </item>
+    <item>
+      <title>Harby Junior High</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>1500 Heights, Alvin, TX 77511::4::0::1::0</description>
+      <guid isPermaLink="false">fca5839509451ae7</guid>
+      <pubDate>Tue, 29 Dec 2009 14:21:29 GMT</pubDate>
+      <georss:point>29.438532809810944 -95.25829139154047</georss:point>
+    </item>
+    <item>
+      <title>Morton Ranch High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>21000 Franz Road, Katy, TX 77449::9::0::1::0</description>
+      <guid isPermaLink="false">dc29abb1bfb3e83b</guid>
+      <pubDate>Tue, 29 Dec 2009 14:22:18 GMT</pubDate>
+      <georss:point>29.804955729560298 -95.74689908731074</georss:point>
+    </item>
+    <item>
+      <title>Cypress Springs High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>7909 Fry Rd, Cypress, TX 77449::6::0::1::0</description>
+      <guid isPermaLink="false">4f32d95b400e0021</guid>
+      <pubDate>Tue, 29 Dec 2009 14:23:04 GMT</pubDate>
+      <georss:point>29.892443 -95.722842</georss:point>
+    </item>
+    <item>
+      <title>Robert Lee High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>1809 Market, Baytown, TX 77520::8::0::1::0</description>
+      <guid isPermaLink="false">9e92bea0f514c4c9</guid>
+      <pubDate>Tue, 29 Dec 2009 14:26:01 GMT</pubDate>
+      <georss:point>29.73021608913662 -94.98461632869725</georss:point>
+    </item>
+    <item>
+      <title>Matheson Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>1240 Ulrich, Tomball, TX 77375::4::1::1::0</description>
+      <guid isPermaLink="false">71b4507057cea914</guid>
+      <pubDate>Tue, 29 Dec 2009 14:26:52 GMT</pubDate>
+      <georss:point>30.110343989253294 -95.61872674736025</georss:point>
+    </item>
+    <item>
+      <title>New Caney High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>21650 Loop 494, New Caney, TX 77357::8::0::1::0</description>
+      <guid isPermaLink="false">1db799f2c20cc3aa</guid>
+      <pubDate>Tue, 29 Dec 2009 14:27:27 GMT</pubDate>
+      <georss:point>30.131643988898012 -95.22423990380486</georss:point>
+    </item>
+    <item>
+      <title>Oak Ridge High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>27330 Oak ridge School Road, Conroe, TX 77316::8::0::1::0</description>
+      <guid isPermaLink="false">f1eff820f5b99c10</guid>
+      <pubDate>Tue, 29 Dec 2009 14:28:05 GMT</pubDate>
+      <georss:point>30.172130953766412 -95.44477373610687</georss:point>
+    </item>
+    <item>
+      <title>Woodlands High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>6101 Research Forest, Spring, TX 77381::8::0::1::0</description>
+      <guid isPermaLink="false">35bacc7796e77991</guid>
+      <pubDate>Tue, 29 Dec 2009 14:28:36 GMT</pubDate>
+      <georss:point>30.19386962554092 -95.50575633666227</georss:point>
+    </item>
+    <item>
+      <title>Sunset Park</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>2017 Mulcahy, Rosenberg, TX 77471::2::1::1::0</description>
+      <guid isPermaLink="false">a380716bd1118ab2</guid>
+      <pubDate>Tue, 29 Dec 2009 14:29:08 GMT</pubDate>
+      <georss:point>29.54627807799495 -95.81099875724356</georss:point>
+    </item>
+    <item>
+      <title>Clear Lake High School</title>
+      <link>http://www.bing.com/?cid=AA39228CD7CD85FA!981</link>
+      <description>2929 Bay Area Blvd, Houston, TX 77058::14::0::1::0</description>
+      <guid isPermaLink="false">be8ec1a290d7325c</guid>
+      <pubDate>Tue, 29 Dec 2009 14:16:03 GMT</pubDate>
+      <georss:point>29.581973 -95.10719</georss:point>
+    </item>
+  </channel>
+</rss>

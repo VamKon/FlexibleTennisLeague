@@ -1,0 +1,520 @@
+﻿<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E9195D37-0FDC-4817-BF98-24F2BCE074CC}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FlexibleTennisLeague</RootNamespace>
+    <AssemblyName>FlexibleTennisLeague</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="Telerik.Web.UI, Version=2009.2.701.35, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Telerik\RadControls for ASP.NET AJAX Q2 2009\Bin35\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Themes\FlexibleTennisLeague\Tennis.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\EditMatch.aspx.cs">
+      <DependentUpon>EditMatch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\EditMatch.aspx.designer.cs">
+      <DependentUpon>EditMatch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Common\GameRating.aspx.cs">
+      <DependentUpon>GameRating.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\GameRating.aspx.designer.cs">
+      <DependentUpon>GameRating.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Common\MatchRequest.aspx.cs">
+      <DependentUpon>MatchRequest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\MatchRequest.aspx.designer.cs">
+      <DependentUpon>MatchRequest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Common\ReportScore.aspx.cs">
+      <DependentUpon>ReportScore.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\ReportScore.aspx.designer.cs">
+      <DependentUpon>ReportScore.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Common\TennisCourtDetails.aspx.cs">
+      <DependentUpon>TennisCourtDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\TennisCourtDetails.aspx.designer.cs">
+      <DependentUpon>TennisCourtDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Encryption.cs" />
+    <Compile Include="Error.aspx.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Error.aspx.designer.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FileNotFound.aspx.cs">
+      <DependentUpon>FileNotFound.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FileNotFound.aspx.designer.cs">
+      <DependentUpon>FileNotFound.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FlexibleTennisLeague.Master.cs">
+      <DependentUpon>FlexibleTennisLeague.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FlexibleTennisLeague.Master.designer.cs">
+      <DependentUpon>FlexibleTennisLeague.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="HowItWorks.aspx.cs">
+      <DependentUpon>HowItWorks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HowItWorks.aspx.designer.cs">
+      <DependentUpon>HowItWorks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Locations.aspx.cs">
+      <DependentUpon>Locations.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Locations.aspx.designer.cs">
+      <DependentUpon>Locations.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPage.aspx.cs">
+      <DependentUpon>LoginPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoginPage.aspx.designer.cs">
+      <DependentUpon>LoginPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PageOfFame.aspx.cs">
+      <DependentUpon>PageOfFame.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PageOfFame.aspx.designer.cs">
+      <DependentUpon>PageOfFame.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RecoverPassword.aspx.cs">
+      <DependentUpon>RecoverPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RecoverPassword.aspx.designer.cs">
+      <DependentUpon>RecoverPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TermsAndConditions.aspx.cs">
+      <DependentUpon>TermsAndConditions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TermsAndConditions.aspx.designer.cs">
+      <DependentUpon>TermsAndConditions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\AvailabilityControl.ascx.cs">
+      <DependentUpon>AvailabilityControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\AvailabilityControl.ascx.designer.cs">
+      <DependentUpon>AvailabilityControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\CalendarControl.ascx.cs">
+      <DependentUpon>CalendarControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\CalendarControl.ascx.designer.cs">
+      <DependentUpon>CalendarControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ContactFormControl.ascx.cs">
+      <DependentUpon>ContactFormControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ContactFormControl.ascx.designer.cs">
+      <DependentUpon>ContactFormControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\EditPost.ascx.cs">
+      <DependentUpon>EditPost.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\EditPost.ascx.designer.cs">
+      <DependentUpon>EditPost.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FeaturedPlayerControls.ascx.cs">
+      <DependentUpon>FeaturedPlayerControls.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\FeaturedPlayerControls.ascx.designer.cs">
+      <DependentUpon>FeaturedPlayerControls.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\HowItWorksControl.ascx.cs">
+      <DependentUpon>HowItWorksControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\HowItWorksControl.ascx.designer.cs">
+      <DependentUpon>HowItWorksControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\JoinMailingList.ascx.cs">
+      <DependentUpon>JoinMailingList.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\JoinMailingList.ascx.designer.cs">
+      <DependentUpon>JoinMailingList.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\LeagueControl.ascx.cs">
+      <DependentUpon>LeagueControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\LeagueControl.ascx.designer.cs">
+      <DependentUpon>LeagueControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\LeagueInfoControl.ascx.cs">
+      <DependentUpon>LeagueInfoControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\LeagueInfoControl.ascx.designer.cs">
+      <DependentUpon>LeagueInfoControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\LoginForm.ascx.cs">
+      <DependentUpon>LoginForm.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\LoginForm.ascx.designer.cs">
+      <DependentUpon>LoginForm.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MessageDetail.ascx.cs">
+      <DependentUpon>MessageDetail.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\MessageDetail.ascx.designer.cs">
+      <DependentUpon>MessageDetail.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Messages.ascx.cs">
+      <DependentUpon>Messages.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\Messages.ascx.designer.cs">
+      <DependentUpon>Messages.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\PerformanceControl.ascx.cs">
+      <DependentUpon>PerformanceControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\PerformanceControl.ascx.designer.cs">
+      <DependentUpon>PerformanceControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ProfileControl.ascx.cs">
+      <DependentUpon>ProfileControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ProfileControl.ascx.designer.cs">
+      <DependentUpon>ProfileControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\PublicProfileControl.ascx.cs">
+      <DependentUpon>PublicProfileControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\PublicProfileControl.ascx.designer.cs">
+      <DependentUpon>PublicProfileControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\RecoverPasswordControl.ascx.cs">
+      <DependentUpon>RecoverPasswordControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\RecoverPasswordControl.ascx.designer.cs">
+      <DependentUpon>RecoverPasswordControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\RegisterControl.ascx.cs">
+      <DependentUpon>RegisterControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\RegisterControl.ascx.designer.cs">
+      <DependentUpon>RegisterControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\RulesControl.ascx.cs">
+      <DependentUpon>RulesControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\RulesControl.ascx.designer.cs">
+      <DependentUpon>RulesControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ScheduleControl.ascx.cs">
+      <DependentUpon>ScheduleControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ScheduleControl.ascx.designer.cs">
+      <DependentUpon>ScheduleControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\TennisCourts.ascx.cs">
+      <DependentUpon>TennisCourts.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\TennisCourts.ascx.designer.cs">
+      <DependentUpon>TennisCourts.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\TennisCourtsGrid.ascx.cs">
+      <DependentUpon>TennisCourtsGrid.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\TennisCourtsGrid.ascx.designer.cs">
+      <DependentUpon>TennisCourtsGrid.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\TennisDealsControl.ascx.cs">
+      <DependentUpon>TennisDealsControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\TennisDealsControl.ascx.designer.cs">
+      <DependentUpon>TennisDealsControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UploadImageControl.ascx.cs">
+      <DependentUpon>UploadImageControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\UploadImageControl.ascx.designer.cs">
+      <DependentUpon>UploadImageControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\UserLocations.ascx.cs">
+      <DependentUpon>UserLocations.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\UserLocations.ascx.designer.cs">
+      <DependentUpon>UserLocations.ascx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DLL\FlexibleTennisLeague.DLL.csproj">
+      <Project>{D6D70AD9-E5E7-471B-878B-3618199CFB4C}</Project>
+      <Name>FlexibleTennisLeague.DLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Themes\Tennis\Tennis.skin" />
+    <Content Include="Common\EditMatch.aspx" />
+    <Content Include="Common\GameRating.aspx" />
+    <Content Include="Common\MatchRequest.aspx" />
+    <Content Include="Common\ReportScore.aspx" />
+    <Content Include="Common\TennisCourtDetails.aspx" />
+    <Content Include="ContactUs.aspx" />
+    <Content Include="Courts\Denver.xml" />
+    <Content Include="Courts\FlexibleTennisLeague.xml" />
+    <Content Include="Courts\LosAngeles.xml" />
+    <Content Include="Default.aspx" />
+    <Content Include="Error.aspx" />
+    <Content Include="favicon.ico" />
+    <Content Include="Resources\Images\1_z2.gif" />
+    <Content Include="Resources\Images\AddThis.jpg" />
+    <Content Include="Resources\Images\alert.png" />
+    <Content Include="Resources\Images\Availability.png" />
+    <Content Include="Resources\Images\banner.jpg" />
+    <Content Include="Resources\Images\Banner2.jpg" />
+    <Content Include="Resources\Images\Calendar.png" />
+    <Content Include="Resources\Images\Compete_Tennis.gif" />
+    <Content Include="Resources\Images\Contact.png" />
+    <Content Include="Resources\Images\ControlPanel.png" />
+    <Content Include="Resources\Images\ControlPanelOff.gif" />
+    <Content Include="Resources\Images\ControlPanelOn.gif" />
+    <Content Include="Resources\Images\DenverVertical.jpg" />
+    <Content Include="Resources\Images\DrivingDirections.png" />
+    <Content Include="Resources\Images\facebook.gif" />
+    <Content Include="Resources\Images\facebook.jpg" />
+    <Content Include="Resources\Images\find.png" />
+    <Content Include="Resources\Images\FlexibleTennisLeagueBanner.jpg" />
+    <Content Include="Resources\Images\Flip.png" />
+    <Content Include="Resources\Images\GreyGradient.jpg" />
+    <Content Include="Resources\Images\Help.png" />
+    <Content Include="Resources\Images\HomeOff.gif" />
+    <Content Include="Resources\Images\HomeOn.gif" />
+    <Content Include="Resources\Images\How_Does_It_Work.jpg" />
+    <Content Include="Resources\Images\Join_Fall_League.jpg" />
+    <Content Include="Resources\Images\League.png" />
+    <Content Include="Resources\Images\LeagueInfoOff.gif" />
+    <Content Include="Resources\Images\LeagueInfoOn.gif" />
+    <Content Include="Resources\Images\linkedin.png" />
+    <Content Include="Resources\Images\Map.png" />
+    <Content Include="Resources\Images\MatchRequest.png" />
+    <Content Include="Resources\Images\Menu.gif" />
+    <Content Include="Resources\Images\MenuBig.gif" />
+    <Content Include="Resources\Images\menu_home.jpg" />
+    <Content Include="Resources\Images\myspace.jpg" />
+    <Content Include="Resources\Images\News.jpg" />
+    <Content Include="Resources\Images\NoProfile.gif" />
+    <Content Include="Resources\Images\OK.png" />
+    <Content Include="Resources\Images\orkut.gif" />
+    <Content Include="Resources\Images\Other_Players_League.png" />
+    <Content Include="Resources\Images\Performance.png" />
+    <Content Include="Resources\Images\Rate_Tennis_Skills.png" />
+    <Content Include="Resources\Images\Record_Match_Score.png" />
+    <Content Include="Resources\Images\Schedule.png" />
+    <Content Include="Resources\Images\Schedule_Tennis_Matches.png" />
+    <Content Include="Resources\Images\Sign_Up.jpg" />
+    <Content Include="Resources\Images\StandingsOff.gif" />
+    <Content Include="Resources\Images\StandingsOn.gif" />
+    <Content Include="Resources\Images\SwapSellOff.gif" />
+    <Content Include="Resources\Images\SwapSellOn.gif" />
+    <Content Include="Resources\Images\TennisBallsBanner.jpg" />
+    <Content Include="Resources\Images\TennisBallsBannerSmall.jpg" />
+    <Content Include="Resources\Images\TennisDealsOff.gif" />
+    <Content Include="Resources\Images\TennisDealsOn.gif" />
+    <Content Include="Resources\Images\Twitter.jpg" />
+    <Content Include="Resources\Images\User.png" />
+    <Content Include="Resources\Images\Warning.png" />
+    <Content Include="Resources\Images\Win_Tennis_Trophy.gif" />
+    <Content Include="Resources\Images\Zoom.png" />
+    <Content Include="Resources\JavaScript\Script.js" />
+    <Content Include="UserControls\AvailabilityControl.ascx" />
+    <Content Include="UserControls\CalendarControl.ascx" />
+    <Content Include="UserControls\ContactFormControl.ascx" />
+    <Content Include="UserControls\FeaturedPlayerControls.ascx" />
+    <Content Include="UserControls\HowItWorksControl.ascx" />
+    <Content Include="UserControls\JoinMailingList.ascx" />
+    <Content Include="UserControls\LeagueControl.ascx" />
+    <Content Include="UserControls\LeagueInfoControl.ascx" />
+    <Content Include="UserControls\LoginForm.ascx" />
+    <Content Include="UserControls\PerformanceControl.ascx" />
+    <Content Include="UserControls\ProfileControl.ascx" />
+    <Content Include="UserControls\PublicProfileControl.ascx" />
+    <Content Include="UserControls\RecoverPasswordControl.ascx" />
+    <Content Include="UserControls\RegisterControl.ascx" />
+    <Content Include="UserControls\RulesControl.ascx" />
+    <Content Include="UserControls\ScheduleControl.ascx" />
+    <Content Include="UserControls\TennisCourts.ascx" />
+    <Content Include="UserControls\TennisCourtsGrid.ascx" />
+    <Content Include="UserControls\TennisDealsControl.ascx" />
+    <Content Include="UserControls\UploadImageControl.ascx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Courts\Atlanta.xml" />
+    <Content Include="Courts\SanJose.xml" />
+    <Content Include="Courts\Dallas.xml" />
+    <Content Include="Courts\Houston.xml" />
+    <Content Include="Courts\SanFrancisco.xml" />
+    <Content Include="FileNotFound.aspx" />
+    <Content Include="FlexibleTennisLeague.Master" />
+    <Content Include="Global.asax" />
+    <Content Include="HowItWorks.aspx" />
+    <Content Include="Locations.aspx" />
+    <Content Include="LoginPage.aspx" />
+    <Content Include="PageOfFame.aspx" />
+    <Content Include="RecoverPassword.aspx" />
+    <Content Include="RecoverPasswordMailBody.txt" />
+    <Content Include="Register.aspx" />
+    <Content Include="Resources\Images\announce.png" />
+    <Content Include="Resources\Images\DenverFall2009Winner.jpg" />
+    <Content Include="robots.txt" />
+    <Content Include="sitemap.xml" />
+    <Content Include="TermsAndConditions.aspx" />
+    <None Include="Resources\Documents\NTRPRankings.pdf" />
+    <Content Include="UserControls\EditPost.ascx" />
+    <Content Include="UserControls\MessageDetail.ascx" />
+    <Content Include="UserControls\Messages.ascx" />
+    <Content Include="UserControls\UserLocations.ascx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="ProfileImages\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v9.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>64996</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:81</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

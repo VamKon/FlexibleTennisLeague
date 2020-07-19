@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" MasterPageFile="FlexibleTennisLeague.Master" AutoEventWireup="true"
+    CodeBehind="ControlPanel.master.cs" Inherits="FlexibleTennisLeague.Houston.ControlPanel" %>
+
+
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div class="contentGreyTopBorder">
+        <div style="width: 830px;text-align:center" class="greyContent">
+        <asp:Image ID="Image9" runat="server" ImageUrl="~/Resources/Images/announce.png" ImageAlign="Middle" />&nbsp;
+            <asp:LinkButton ID="LinkButton9" runat="server" PostBackUrl="Users/Messages.aspx">Messages</asp:LinkButton>&nbsp;&nbsp;
+            <asp:Image ID="Image1" runat="server" ImageUrl="~/Resources/Images/User.png" ImageAlign="Middle" />&nbsp;
+            <asp:LinkButton ID="LinkButton1" runat="server" PostBackUrl="Users/Profile.aspx">Profile</asp:LinkButton>&nbsp;&nbsp;
+            <asp:Image ID="Image3" runat="server" ImageUrl="~/Resources/Images/Schedule.png" ImageAlign="Middle" />&nbsp;
+            <asp:LinkButton ID="LinkButton3" runat="server" PostBackUrl="Users/Schedule.aspx">Schedule</asp:LinkButton>&nbsp;&nbsp;
+            <asp:Image ID="Image4" runat="server" ImageUrl="~/Resources/Images/League.png" ImageAlign="Middle" />&nbsp;
+            <asp:LinkButton ID="LinkButton4" runat="server" PostBackUrl="Users/League.aspx">View Players</asp:LinkButton>
+            <asp:Image ID="Image5" runat="server" ImageUrl="~/Resources/Images/Performance.png" ImageAlign="Middle" />&nbsp;
+            <asp:LinkButton ID="LinkButton5" runat="server" PostBackUrl="Users/MyPerformance.aspx">Performance</asp:LinkButton>
+            <asp:Image ID="Image8" runat="server" ImageUrl="~/Resources/Images/Availability.png" ImageAlign="Middle" />&nbsp;
+            <asp:LinkButton ID="LinkButton8" runat="server" PostBackUrl="Users/Availability.aspx">Availability</asp:LinkButton>
+            <asp:Image ID="Image7" runat="server" ImageUrl="~/Resources/Images/Calendar.png" ImageAlign="Middle" />&nbsp;
+            <asp:LinkButton ID="LinkButton7" runat="server" PostBackUrl="Users/Calendar.aspx">Calendar</asp:LinkButton>
+            <asp:Image ID="Image2" runat="server" ImageUrl="~/Resources/Images/Help.png" ImageAlign="Middle" />&nbsp;
+            <asp:LinkButton ID="LinkButton2" runat="server" PostBackUrl="LeagueInfo.aspx">Rules</asp:LinkButton>
+            <asp:Image ID="Image6" runat="server" ImageUrl="~/Resources/Images/Contact.png" ImageAlign="Middle" />&nbsp;
+            <asp:LinkButton ID="LinkButton6" runat="server" PostBackUrl="ContactUs.aspx">Contact Admin</asp:LinkButton>
+        </div>
+        <br />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+    </div>
+    
+</asp:Content>

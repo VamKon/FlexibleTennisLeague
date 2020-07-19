@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:georss="http://www.georss.org/georss" version="2.0">
+  <channel>
+    <title>FlexibleTennisLeague</title>
+    <link>http://www.bing.com</link>
+    <description />
+    <item>
+      <title>Atlanta, GA</title>
+      <link>http://www.flexibletennisleague.com/atlanta/</link>
+      <description>&lt;br&gt;Click &lt;a href='http://www.flexibletennisleague.com/atlanta/'&gt;here&lt;/a&gt; for Atlanta League.</description>
+      <guid isPermaLink="false">73381ebed0ff4edb</guid>
+      <pubDate>Mon, 07 Dec 2009 14:14:32 GMT</pubDate>
+      <georss:point>33.7458306269404 -84.39316995441913</georss:point>
+    </item>
+    <item>
+      <title>Chicago, IL</title>
+      <link>http://www.flexibletennisleague.com/chicago/</link>
+      <description>&lt;br&gt;Click &lt;a href='http://www.flexibletennisleague.com/chicago/'&gt;here&lt;/a&gt; for Chicago League.</description>
+      <guid isPermaLink="false">2a07c416f83baf05</guid>
+      <pubDate>Tue, 23 Feb 2010 13:55:08 GMT</pubDate>
+      <georss:point>41.884150207042694 -87.63240940868854</georss:point>
+    </item>
+    <item>
+      <title>Dallas, TX</title>
+      <link>http://www.flexibletennisleague.com/dallas/</link>
+      <description>&lt;br&gt;Click &lt;a href='http://www.flexibletennisleague.com/dallas/'&gt;here&lt;/a&gt; for Dallas League.</description>
+      <guid isPermaLink="false">c13cdeea87325617</guid>
+      <pubDate>Tue, 19 Jan 2010 13:21:00 GMT</pubDate>
+      <georss:point>32.77815520763397 -96.795404702425</georss:point>
+    </item>
+    <item>
+      <title>Denver, CO</title>
+      <link>http://www.flexibletennisleague.com/denver/</link>
+      <description>&lt;br&gt;Click &lt;a href='http://www.flexibletennisleague.com/denver/'&gt;here&lt;/a&gt; for Denver League.</description>
+      <guid isPermaLink="false">20064ba88f288781</guid>
+      <pubDate>Sat, 19 Sep 2009 23:30:25 GMT</pubDate>
+      <georss:point>39.740009754896164 -104.99225959181785</georss:point>
+    </item>
+    <item>
+      <title>Houston, TX</title>
+      <link>http://www.flexibletennisleague.com/houston/</link>
+      <description>&lt;br&gt;Click &lt;a href='http://www.flexibletennisleague.com/houston/'&gt;here&lt;/a&gt; for Houston League.</description>
+      <guid isPermaLink="false">a365222cdcf96b1c</guid>
+      <pubDate>Sat, 09 Jan 2010 23:52:33 GMT</pubDate>
+      <georss:point>29.7604501247406 -95.3697844594717</georss:point>
+    </item>
+    <item>
+      <title>Los Angeles, CA</title>
+      <link>http://www.flexibletennisleague.com/losangeles/</link>
+      <description>&lt;br&gt;Click &lt;a href='http://www.flexibletennisleague.com/losangeles/'&gt;here&lt;/a&gt; for Los Angeles League.</description>
+      <guid isPermaLink="false">3157d006be3afd70</guid>
+      <pubDate>Tue, 29 Sep 2009 02:48:39 GMT</pubDate>
+      <georss:point>34.053290113806724 -118.24500940740108</georss:point>
+    </item>
+    <item>
+      <title>San Francisco, CA</title>
+      <link>http://www.flexibletennisleague.com/sanfrancisco/</link>
+      <description>&lt;br&gt;Click &lt;a href='http://www.flexibletennisleague.com/sanfrancisco/'&gt;here&lt;/a&gt; for San Francisco League.</description>
+      <guid isPermaLink="false">2a07c416f83baf05</guid>
+      <pubDate>Tue, 23 Feb 2010 13:55:08 GMT</pubDate>
+      <georss:point>37.77916006743908 -122.42004945874214</georss:point>
+    </item>
+    <item>
+      <title>San Jose, CA</title>
+      <link>http://www.flexibletennisleague.com/sanjose/</link>
+      <description>&lt;br&gt;Click &lt;a href='http://www.flexibletennisleague.com/sanjose/'&gt;here&lt;/a&gt; for San Jose League.</description>
+      <guid isPermaLink="false">2a07c416f83baf05</guid>
+      <pubDate>Tue, 23 Feb 2010 13:55:08 GMT</pubDate>
+      <georss:point>37.33847513794899 -121.88579499721527</georss:point>
+    </item>
+
+  </channel>
+</rss>

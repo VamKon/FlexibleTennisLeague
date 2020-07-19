@@ -1,0 +1,5 @@
+E:\Development\FlexibleTennisLeague\Chicago\obj\Debug\ResolveAssemblyReference.cache
+E:\Development\FlexibleTennisLeague\bin\FlexibleTennisLeague.Chicago.dll
+E:\Development\FlexibleTennisLeague\bin\FlexibleTennisLeague.Chicago.pdb
+E:\Development\FlexibleTennisLeague\Chicago\obj\Debug\FlexibleTennisLeague.Chicago.dll
+E:\Development\FlexibleTennisLeague\Chicago\obj\Debug\FlexibleTennisLeague.Chicago.pdb

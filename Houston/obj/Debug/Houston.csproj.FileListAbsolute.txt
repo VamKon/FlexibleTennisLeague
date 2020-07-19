@@ -1,0 +1,5 @@
+E:\Development\FlexibleTennisLeague\Houston\obj\Debug\ResolveAssemblyReference.cache
+E:\Development\FlexibleTennisLeague\bin\FlexibleTennisLeague.Houston.dll
+E:\Development\FlexibleTennisLeague\bin\FlexibleTennisLeague.Houston.pdb
+E:\Development\FlexibleTennisLeague\Houston\obj\Debug\FlexibleTennisLeague.Houston.dll
+E:\Development\FlexibleTennisLeague\Houston\obj\Debug\FlexibleTennisLeague.Houston.pdb
